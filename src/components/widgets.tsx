@@ -209,5 +209,64 @@ export function DispositionChip({ d }: { d: ScopeDisposition | null }) {
 export function MilestoneTag({ id, ds }: { id: string | null; ds: Dataset }) {
   if (!id) return <span className="muted">–</span>;
   const m = ds.milestones.find((x) => x.milestone_id === id);
-  return <span className="chip chip-milestone">{m ? m.name : id}</span>;
+  return (
+    <span className="chip chip-milestone" title={m ? `${m.name} · due ${m.due_date}` : id}>
+      {id}
+    </span>
+  );
+}
+
+/**
+ * Milestone selector chips, as prototyped (build-progress-milestones.html):
+ * name + due date, mini stage-distribution bar (blocked in red at the end),
+ * pass and blocked counts. Chips are always computed over the full dataset.
+ */
+export function MilestoneChips({
+  ds,
+  selected,
+  onSelect,
+  includeAll,
+}: {
+  ds: Dataset;
+  selected: string | null;
+  onSelect: (id: string | null) => void;
+  includeAll?: boolean;
+}) {
+  const options: (Milestone | null)[] = includeAll ? [null, ...ds.milestones] : ds.milestones;
+  return (
+    <div className="chip-row">
+      {options.map((m) => {
+        const id = m ? m.milestone_id : null;
+        const items = countable(ds.issues, id);
+        const done = items.filter((i) => ds.metrics.get(i.issue_key)?.is_done).length;
+        const blocked = items.filter((i) => ds.metrics.get(i.issue_key)?.is_blocked).length;
+        const active = selected === id;
+        return (
+          <button key={id ?? 'all'} className={`mschip${active ? ' selected' : ''}`} onClick={() => onSelect(id)}>
+            <span className="mschip-top">
+              <span className="mschip-name">{m ? m.name : 'All milestones'}</span>
+              <span className="mschip-due">{m ? `due ${m.due_date}` : `${items.length} items`}</span>
+            </span>
+            <span className="mschip-mini">
+              {STAGE_ORDER.map((s) => {
+                const n = items.filter(
+                  (i) => effectiveStage(i.status) === s && !ds.metrics.get(i.issue_key)?.is_blocked,
+                ).length;
+                return n > 0 ? (
+                  <span key={s} style={{ width: `${(100 * n) / items.length}%`, background: STAGE_COLORS[s] }} />
+                ) : null;
+              })}
+              {blocked > 0 && (
+                <span style={{ width: `${(100 * blocked) / items.length}%`, background: '#d03b3b' }} />
+              )}
+            </span>
+            <span className="mschip-stats">
+              <span>{done}/{items.length} pass</span>
+              {blocked > 0 && <span className="mschip-blk">{blocked} blk</span>}
+            </span>
+          </button>
+        );
+      })}
+    </div>
+  );
 }

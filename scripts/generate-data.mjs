@@ -46,11 +46,15 @@ const dateBetween = (a, b) => a + rnd() * (b - a);
 const D = (y, m, d) => Date.UTC(y, m - 1, d);
 
 // ---------------------------------------------------------------- dimensions
+// Milestone names/dates from the prototype (build-progress-milestones.html):
+// internal demo → OEM acceptance → field trial. M4 (launch readiness) is
+// added because the handoff requires 4 milestones spanning 2026-07 → 2027-01.
+// start_date = previous milestone's due_date (spec §1.1 default), M1 explicit.
 const milestones = [
-  { milestone_id: 'M1', name: 'M1 - 2026.07', start_date: '2026-05-04', due_date: '2026-07-31', expected_curve: 'linear' },
-  { milestone_id: 'M2', name: 'M2 - 2026.09', start_date: '2026-07-31', due_date: '2026-09-30', expected_curve: 'linear' },
-  { milestone_id: 'M3', name: 'M3 - 2026.11', start_date: '2026-09-30', due_date: '2026-11-30', expected_curve: 'linear' },
-  { milestone_id: 'M4', name: 'M4 - 2027.01', start_date: '2026-11-30', due_date: '2027-01-29', expected_curve: 'linear' },
+  { milestone_id: 'M1', name: 'M1 · internal demo',   start_date: '2026-05-04', due_date: '2026-07-24', expected_curve: 'linear' },
+  { milestone_id: 'M2', name: 'M2 · OEM acceptance',  start_date: '2026-07-24', due_date: '2026-09-11', expected_curve: 'linear' },
+  { milestone_id: 'M3', name: 'M3 · field trial',     start_date: '2026-09-11', due_date: '2026-11-06', expected_curve: 'linear' },
+  { milestone_id: 'M4', name: 'M4 · launch readiness', start_date: '2026-11-06', due_date: '2027-01-29', expected_curve: 'linear' },
 ];
 
 const features = [

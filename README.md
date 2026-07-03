@@ -49,6 +49,13 @@ docs/                  the spec + handoff brief this build implements
 P7 (Reports / Settings) is out of scope for v1 per the handoff brief.
 `expected_curve = 's-curve'` is reserved for v2 and not implemented.
 
+**Milestones** are the ones agreed in the prototype review
+(`build-progress-milestones.html`): `M1 · internal demo` (due 2026-07-24),
+`M2 · OEM acceptance` (2026-09-11), `M3 · field trial` (2026-11-06), plus
+`M4 · launch readiness` (2027-01-29) — M4 is added because the handoff
+requires four milestones spanning 2026-07 → 2027-01. A milestone is a label
+on Stories and Bugs — a slice across the tree, not a level of it.
+
 ## Hard invariants (spec §6) — all tested in `src/lib/invariants.test.ts`
 
 1. Removing all Subtasks from `issues.json` changes **no** displayed percentage (D2).

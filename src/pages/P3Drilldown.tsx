@@ -3,6 +3,7 @@ import { dataset } from '../lib/data';
 import type { Issue } from '../lib/types';
 import { countable, progressOf, DONE_STATUS } from '../lib/metrics';
 import {
+  MilestoneChips,
   MilestoneTag,
   ProgressBar,
   ScopeTag,
@@ -45,20 +46,7 @@ export function P3Drilldown() {
   return (
     <>
       <div className="card" style={{ display: 'flex', gap: 16, alignItems: 'center', flexWrap: 'wrap' }}>
-        <div className="chip-row">
-          <button className={`mchip${slice == null ? ' selected' : ''}`} onClick={() => setSlice(null)}>
-            All milestones
-          </button>
-          {ds.milestones.map((m) => (
-            <button
-              key={m.milestone_id}
-              className={`mchip${slice === m.milestone_id ? ' selected' : ''}`}
-              onClick={() => setSlice(m.milestone_id)}
-            >
-              {m.name}
-            </button>
-          ))}
-        </div>
+        <MilestoneChips ds={ds} selected={slice} onSelect={setSlice} includeAll />
         {slice != null && <span className="muted">out-of-slice items are dimmed, not hidden</span>}
       </div>
 

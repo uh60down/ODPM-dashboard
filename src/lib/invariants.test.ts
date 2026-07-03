@@ -69,15 +69,15 @@ describe('invariant 2 — color is temporal, the number is not (D1)', () => {
   const m1 = milestones.find((m) => m.milestone_id === 'M1')!;
 
   it('advancing the mocked today changes the color band', () => {
-    // M1: start 2026-05-04, due 2026-07-31. Hold actual at 68%.
+    // M1 (internal demo): start 2026-05-04, due 2026-07-24. Hold actual at 68%.
     const actual = 68;
-    const early = healthColor(actual, 60, m1, new Date('2026-06-28T00:00:00Z'), milestones);
-    const mid = healthColor(actual, 60, m1, new Date('2026-07-20T00:00:00Z'), milestones);
-    const late = healthColor(actual, 60, m1, new Date('2026-07-28T00:00:00Z'), milestones);
+    const early = healthColor(actual, 60, m1, new Date('2026-06-20T00:00:00Z'), milestones);
+    const mid = healthColor(actual, 60, m1, new Date('2026-07-10T00:00:00Z'), milestones);
+    const late = healthColor(actual, 60, m1, new Date('2026-07-22T00:00:00Z'), milestones);
     const pastDue = healthColor(actual, 60, m1, new Date('2026-08-05T00:00:00Z'), milestones);
-    expect(early).toBe('green'); // expected ≈ 62.5% → ratio ≈ 1.09
-    expect(mid).toBe('yellow'); // expected ≈ 87.5% → ratio ≈ 0.78
-    expect(late).toBe('orange'); // expected ≈ 96.6% → ratio ≈ 0.70
+    expect(early).toBe('green'); // expected ≈ 58% → ratio ≈ 1.17
+    expect(mid).toBe('yellow'); // expected ≈ 83% → ratio ≈ 0.82
+    expect(late).toBe('orange'); // expected ≈ 97% → ratio ≈ 0.70
     expect(pastDue).toBe('red'); // past-due override
     expect(early).not.toBe(late);
   });

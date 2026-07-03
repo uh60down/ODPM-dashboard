@@ -92,8 +92,13 @@ export function P4Commitment() {
                 </td>
                 <td>
                   {spread.map((s) => (
-                    <span key={s.m.milestone_id} className="chip chip-milestone" style={{ marginRight: 6 }}>
-                      {s.m.name.split(' - ')[0]} · {s.p.pct}%
+                    <span
+                      key={s.m.milestone_id}
+                      className="chip chip-milestone"
+                      style={{ marginRight: 6 }}
+                      title={`${s.m.name} · due ${s.m.due_date}`}
+                    >
+                      {s.m.milestone_id} · {s.p.pct}%
                     </span>
                   ))}
                 </td>

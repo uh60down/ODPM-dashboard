@@ -3,7 +3,7 @@ import { currentMilestone, dataset } from '../lib/data';
 import { countable, featureDelivered, progressOf, scopeExposure, DONE_STATUS } from '../lib/metrics';
 import { keysWhere, pctSeries, sampleDates, snapshots } from '../lib/derived';
 import { doneCountAt } from '../lib/timeline';
-import { KpiCard, MatrixTable, Funnel } from '../components/widgets';
+import { KpiCard, MatrixTable, Funnel, MilestoneChips } from '../components/widgets';
 import { LineChart } from '../components/charts';
 import { BlockedTopTable } from '../components/BlockedTopTable';
 
@@ -43,17 +43,7 @@ export function P2Milestone() {
   return (
     <>
       <div className="card" style={{ display: 'flex', gap: 16, alignItems: 'center', flexWrap: 'wrap' }}>
-        <div className="chip-row">
-          {ds.milestones.map((x) => (
-            <button
-              key={x.milestone_id}
-              className={`mchip${x.milestone_id === selected ? ' selected' : ''}`}
-              onClick={() => setSelected(x.milestone_id)}
-            >
-              {x.name}
-            </button>
-          ))}
-        </div>
+        <MilestoneChips ds={ds} selected={selected} onSelect={(id) => id && setSelected(id)} />
         <span className="muted">
           {m.start_date} → due {m.due_date}
           {currentMilestone(ds.milestones, ds.today).milestone_id === selected ? ' · current' : ''}
