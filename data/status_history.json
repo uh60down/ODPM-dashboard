@@ -1,0 +1,7226 @@
+[
+  {
+    "issue_key": "DK-100",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-08T04:52:04Z"
+  },
+  {
+    "issue_key": "DK-100",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-12T02:58:13Z"
+  },
+  {
+    "issue_key": "DK-100",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-13T04:52:04Z"
+  },
+  {
+    "issue_key": "DK-200",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-02T05:42:08Z"
+  },
+  {
+    "issue_key": "DK-200",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-04T11:18:07Z"
+  },
+  {
+    "issue_key": "DK-200",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-07T05:42:08Z"
+  },
+  {
+    "issue_key": "DK-300",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-08T13:34:20Z"
+  },
+  {
+    "issue_key": "DK-300",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-08T17:16:07Z"
+  },
+  {
+    "issue_key": "DK-300",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-13T13:34:20Z"
+  },
+  {
+    "issue_key": "DK-400",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-24T09:17:53Z"
+  },
+  {
+    "issue_key": "DK-400",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-29T09:15:39Z"
+  },
+  {
+    "issue_key": "DK-400",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-29T09:17:53Z"
+  },
+  {
+    "issue_key": "DK-500",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-29T13:07:44Z"
+  },
+  {
+    "issue_key": "DK-500",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-01T05:16:38Z"
+  },
+  {
+    "issue_key": "DK-500",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-03T13:07:44Z"
+  },
+  {
+    "issue_key": "DK-562",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-15T04:52:04Z"
+  },
+  {
+    "issue_key": "DK-562",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-13T08:02:19Z"
+  },
+  {
+    "issue_key": "DK-562",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-16T02:57:11Z"
+  },
+  {
+    "issue_key": "DK-562",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-19T14:55:56Z"
+  },
+  {
+    "issue_key": "DK-562",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-23T23:31:36Z"
+  },
+  {
+    "issue_key": "DK-562",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-01T11:59:34Z"
+  },
+  {
+    "issue_key": "DK-562",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-01T22:32:00Z"
+  },
+  {
+    "issue_key": "DK-563",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-09T12:05:51Z"
+  },
+  {
+    "issue_key": "DK-563",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-21T05:30:58Z"
+  },
+  {
+    "issue_key": "DK-564",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-24T15:16:52Z"
+  },
+  {
+    "issue_key": "DK-564",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-26T17:12:01Z"
+  },
+  {
+    "issue_key": "DK-564",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-23T15:11:44Z"
+  },
+  {
+    "issue_key": "DK-565",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-06T07:24:25Z"
+  },
+  {
+    "issue_key": "DK-565",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-02T04:30:33Z"
+  },
+  {
+    "issue_key": "DK-566",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-08T01:50:38Z"
+  },
+  {
+    "issue_key": "DK-566",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-29T13:16:24Z"
+  },
+  {
+    "issue_key": "DK-567",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-01T11:09:30Z"
+  },
+  {
+    "issue_key": "DK-567",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-07T15:30:57Z"
+  },
+  {
+    "issue_key": "DK-567",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-07T20:13:47Z"
+  },
+  {
+    "issue_key": "DK-567",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-12T01:38:13Z"
+  },
+  {
+    "issue_key": "DK-567",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-17T10:34:54Z"
+  },
+  {
+    "issue_key": "DK-567",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-18T03:16:01Z"
+  },
+  {
+    "issue_key": "DK-567",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-19T20:43:56Z"
+  },
+  {
+    "issue_key": "DK-568",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-02T00:33:04Z"
+  },
+  {
+    "issue_key": "DK-568",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-04T07:56:12Z"
+  },
+  {
+    "issue_key": "DK-568",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-21T22:52:47Z"
+  },
+  {
+    "issue_key": "DK-568",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-22T08:24:31Z"
+  },
+  {
+    "issue_key": "DK-568",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-07-02T04:28:49Z"
+  },
+  {
+    "issue_key": "DK-569",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-16T04:52:04Z"
+  },
+  {
+    "issue_key": "DK-569",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-07T23:19:05Z"
+  },
+  {
+    "issue_key": "DK-569",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-12T04:21:42Z"
+  },
+  {
+    "issue_key": "DK-569",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-14T06:10:09Z"
+  },
+  {
+    "issue_key": "DK-569",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-21T15:34:52Z"
+  },
+  {
+    "issue_key": "DK-569",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-17T20:46:32Z"
+  },
+  {
+    "issue_key": "DK-569",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-19T12:01:26Z"
+  },
+  {
+    "issue_key": "DK-570",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-16T04:52:04Z"
+  },
+  {
+    "issue_key": "DK-570",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-28T12:03:15Z"
+  },
+  {
+    "issue_key": "DK-570",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-10T04:53:45Z"
+  },
+  {
+    "issue_key": "DK-570",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-21T11:24:44Z"
+  },
+  {
+    "issue_key": "DK-570",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-23T06:52:56Z"
+  },
+  {
+    "issue_key": "DK-570",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-27T13:24:09Z"
+  },
+  {
+    "issue_key": "DK-570",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-28T03:27:16Z"
+  },
+  {
+    "issue_key": "DK-571",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-07T07:24:25Z"
+  },
+  {
+    "issue_key": "DK-571",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-12T09:36:44Z"
+  },
+  {
+    "issue_key": "DK-571",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-19T13:30:44Z"
+  },
+  {
+    "issue_key": "DK-571",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-26T10:15:23Z"
+  },
+  {
+    "issue_key": "DK-571",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-27T22:07:22Z"
+  },
+  {
+    "issue_key": "DK-571",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-29T01:09:47Z"
+  },
+  {
+    "issue_key": "DK-571",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-07T15:58:27Z"
+  },
+  {
+    "issue_key": "DK-572",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-07T07:24:25Z"
+  },
+  {
+    "issue_key": "DK-572",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-09T07:32:54Z"
+  },
+  {
+    "issue_key": "DK-572",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-13T20:29:59Z"
+  },
+  {
+    "issue_key": "DK-572",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-22T10:53:24Z"
+  },
+  {
+    "issue_key": "DK-572",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-23T12:46:21Z"
+  },
+  {
+    "issue_key": "DK-572",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-28T16:25:24Z"
+  },
+  {
+    "issue_key": "DK-572",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-29T11:14:03Z"
+  },
+  {
+    "issue_key": "DK-573",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-07T07:24:25Z"
+  },
+  {
+    "issue_key": "DK-573",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-08T08:10:49Z"
+  },
+  {
+    "issue_key": "DK-573",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-22T14:55:56Z"
+  },
+  {
+    "issue_key": "DK-574",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-14T12:39:58Z"
+  },
+  {
+    "issue_key": "DK-574",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-14T15:11:33Z"
+  },
+  {
+    "issue_key": "DK-574",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-03T11:42:24Z"
+  },
+  {
+    "issue_key": "DK-574",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-06T09:02:37Z"
+  },
+  {
+    "issue_key": "DK-574",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-09T09:04:01Z"
+  },
+  {
+    "issue_key": "DK-574",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-12T05:02:25Z"
+  },
+  {
+    "issue_key": "DK-574",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-15T01:40:55Z"
+  },
+  {
+    "issue_key": "DK-575",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-02T20:26:20Z"
+  },
+  {
+    "issue_key": "DK-575",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-03T23:41:34Z"
+  },
+  {
+    "issue_key": "DK-575",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-10T15:56:55Z"
+  },
+  {
+    "issue_key": "DK-576",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-09T05:42:08Z"
+  },
+  {
+    "issue_key": "DK-576",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-22T20:06:09Z"
+  },
+  {
+    "issue_key": "DK-576",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-29T14:58:32Z"
+  },
+  {
+    "issue_key": "DK-576",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-30T02:40:43Z"
+  },
+  {
+    "issue_key": "DK-576",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-12T14:01:01Z"
+  },
+  {
+    "issue_key": "DK-576",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-21T17:31:34Z"
+  },
+  {
+    "issue_key": "DK-576",
+    "from_status": "qa active",
+    "to_status": "qa blocked",
+    "changed_at": "2026-06-30T10:30:00Z"
+  },
+  {
+    "issue_key": "DK-577",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-02T07:31:23Z"
+  },
+  {
+    "issue_key": "DK-577",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-08T08:56:09Z"
+  },
+  {
+    "issue_key": "DK-577",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-11T20:37:30Z"
+  },
+  {
+    "issue_key": "DK-577",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-15T15:03:37Z"
+  },
+  {
+    "issue_key": "DK-577",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-17T13:43:51Z"
+  },
+  {
+    "issue_key": "DK-577",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-20T11:25:23Z"
+  },
+  {
+    "issue_key": "DK-577",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-23T15:11:07Z"
+  },
+  {
+    "issue_key": "DK-578",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-21T05:21:41Z"
+  },
+  {
+    "issue_key": "DK-578",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-21T17:48:50Z"
+  },
+  {
+    "issue_key": "DK-578",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-08T03:52:58Z"
+  },
+  {
+    "issue_key": "DK-578",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-11T01:27:18Z"
+  },
+  {
+    "issue_key": "DK-579",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-12T06:22:45Z"
+  },
+  {
+    "issue_key": "DK-579",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-18T09:19:26Z"
+  },
+  {
+    "issue_key": "DK-579",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-27T01:25:21Z"
+  },
+  {
+    "issue_key": "DK-579",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-06T19:03:54Z"
+  },
+  {
+    "issue_key": "DK-579",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-12T17:05:18Z"
+  },
+  {
+    "issue_key": "DK-579",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-13T16:47:55Z"
+  },
+  {
+    "issue_key": "DK-579",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-27T11:04:05Z"
+  },
+  {
+    "issue_key": "DK-580",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-16T07:49:02Z"
+  },
+  {
+    "issue_key": "DK-580",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-28T21:43:03Z"
+  },
+  {
+    "issue_key": "DK-580",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-06T15:08:59Z"
+  },
+  {
+    "issue_key": "DK-580",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-05T11:56:01Z"
+  },
+  {
+    "issue_key": "DK-580",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-15T04:56:09Z"
+  },
+  {
+    "issue_key": "DK-580",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-15T07:46:09Z"
+  },
+  {
+    "issue_key": "DK-580",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-23T10:04:40Z"
+  },
+  {
+    "issue_key": "DK-581",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-19T20:57:21Z"
+  },
+  {
+    "issue_key": "DK-581",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-23T04:30:15Z"
+  },
+  {
+    "issue_key": "DK-581",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-09T09:37:09Z"
+  },
+  {
+    "issue_key": "DK-581",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-13T06:48:36Z"
+  },
+  {
+    "issue_key": "DK-581",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-03T00:19:53Z"
+  },
+  {
+    "issue_key": "DK-581",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-08T06:43:05Z"
+  },
+  {
+    "issue_key": "DK-581",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-30T02:29:45Z"
+  },
+  {
+    "issue_key": "DK-582",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-04T08:15:37Z"
+  },
+  {
+    "issue_key": "DK-582",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-23T03:11:02Z"
+  },
+  {
+    "issue_key": "DK-583",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-08T13:44:31Z"
+  },
+  {
+    "issue_key": "DK-584",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-21T21:33:51Z"
+  },
+  {
+    "issue_key": "DK-584",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-26T01:37:03Z"
+  },
+  {
+    "issue_key": "DK-584",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-26T01:45:07Z"
+  },
+  {
+    "issue_key": "DK-584",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-27T10:42:30Z"
+  },
+  {
+    "issue_key": "DK-584",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-29T01:51:01Z"
+  },
+  {
+    "issue_key": "DK-585",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-10T05:42:08Z"
+  },
+  {
+    "issue_key": "DK-585",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-27T22:30:55Z"
+  },
+  {
+    "issue_key": "DK-585",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-25T11:55:04Z"
+  },
+  {
+    "issue_key": "DK-586",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-10T05:42:08Z"
+  },
+  {
+    "issue_key": "DK-586",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-19T19:58:20Z"
+  },
+  {
+    "issue_key": "DK-586",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-12T17:13:51Z"
+  },
+  {
+    "issue_key": "DK-587",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-10T05:42:08Z"
+  },
+  {
+    "issue_key": "DK-587",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-11T04:30:06Z"
+  },
+  {
+    "issue_key": "DK-587",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-01T07:48:12Z"
+  },
+  {
+    "issue_key": "DK-588",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-22T05:21:41Z"
+  },
+  {
+    "issue_key": "DK-588",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-30T00:56:48Z"
+  },
+  {
+    "issue_key": "DK-588",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-03T00:58:51Z"
+  },
+  {
+    "issue_key": "DK-589",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-22T05:21:41Z"
+  },
+  {
+    "issue_key": "DK-589",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-14T10:24:43Z"
+  },
+  {
+    "issue_key": "DK-589",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-01T12:15:19Z"
+  },
+  {
+    "issue_key": "DK-590",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-22T05:21:41Z"
+  },
+  {
+    "issue_key": "DK-590",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-29T03:13:06Z"
+  },
+  {
+    "issue_key": "DK-590",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-02T15:13:54Z"
+  },
+  {
+    "issue_key": "DK-590",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-11T17:01:35Z"
+  },
+  {
+    "issue_key": "DK-590",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-18T21:33:06Z"
+  },
+  {
+    "issue_key": "DK-590",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-27T19:15:40Z"
+  },
+  {
+    "issue_key": "DK-590",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-29T03:21:15Z"
+  },
+  {
+    "issue_key": "DK-591",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-09T13:44:31Z"
+  },
+  {
+    "issue_key": "DK-591",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-21T19:46:59Z"
+  },
+  {
+    "issue_key": "DK-591",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-07T19:18:22Z"
+  },
+  {
+    "issue_key": "DK-591",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-09T12:44:22Z"
+  },
+  {
+    "issue_key": "DK-591",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-11T23:36:41Z"
+  },
+  {
+    "issue_key": "DK-591",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-14T04:32:59Z"
+  },
+  {
+    "issue_key": "DK-591",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-15T07:20:00Z"
+  },
+  {
+    "issue_key": "DK-592",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-09T13:44:31Z"
+  },
+  {
+    "issue_key": "DK-593",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-22T21:33:51Z"
+  },
+  {
+    "issue_key": "DK-594",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-22T21:33:51Z"
+  },
+  {
+    "issue_key": "DK-595",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-22T21:33:51Z"
+  },
+  {
+    "issue_key": "DK-595",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-23T13:44:36Z"
+  },
+  {
+    "issue_key": "DK-595",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-25T23:20:39Z"
+  },
+  {
+    "issue_key": "DK-595",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-29T19:24:18Z"
+  },
+  {
+    "issue_key": "DK-595",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-31T08:04:03Z"
+  },
+  {
+    "issue_key": "DK-595",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-01T04:59:08Z"
+  },
+  {
+    "issue_key": "DK-595",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-03T14:58:56Z"
+  },
+  {
+    "issue_key": "DK-596",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-08T00:29:50Z"
+  },
+  {
+    "issue_key": "DK-596",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-12T03:38:31Z"
+  },
+  {
+    "issue_key": "DK-596",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-13T03:02:59Z"
+  },
+  {
+    "issue_key": "DK-596",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-15T21:38:56Z"
+  },
+  {
+    "issue_key": "DK-596",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-18T16:17:31Z"
+  },
+  {
+    "issue_key": "DK-596",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-20T22:00:09Z"
+  },
+  {
+    "issue_key": "DK-596",
+    "from_status": "qa active",
+    "to_status": "qa blocked",
+    "changed_at": "2026-06-22T10:30:00Z"
+  },
+  {
+    "issue_key": "DK-597",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-05T15:00:16Z"
+  },
+  {
+    "issue_key": "DK-597",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-23T23:27:22Z"
+  },
+  {
+    "issue_key": "DK-597",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-01T21:31:11Z"
+  },
+  {
+    "issue_key": "DK-597",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-02T17:36:40Z"
+  },
+  {
+    "issue_key": "DK-597",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-05T21:56:16Z"
+  },
+  {
+    "issue_key": "DK-597",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-08T10:06:13Z"
+  },
+  {
+    "issue_key": "DK-597",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-09T13:04:45Z"
+  },
+  {
+    "issue_key": "DK-598",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-16T18:19:15Z"
+  },
+  {
+    "issue_key": "DK-598",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-03T01:32:54Z"
+  },
+  {
+    "issue_key": "DK-598",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-07T23:52:32Z"
+  },
+  {
+    "issue_key": "DK-598",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-09T17:58:44Z"
+  },
+  {
+    "issue_key": "DK-598",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-27T09:47:27Z"
+  },
+  {
+    "issue_key": "DK-598",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-02T03:40:03Z"
+  },
+  {
+    "issue_key": "DK-598",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-02T17:43:32Z"
+  },
+  {
+    "issue_key": "DK-599",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-21T15:18:42Z"
+  },
+  {
+    "issue_key": "DK-599",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-04T13:37:21Z"
+  },
+  {
+    "issue_key": "DK-599",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-22T17:09:55Z"
+  },
+  {
+    "issue_key": "DK-600",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-15T13:34:20Z"
+  },
+  {
+    "issue_key": "DK-600",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-25T08:50:43Z"
+  },
+  {
+    "issue_key": "DK-600",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-09T07:13:16Z"
+  },
+  {
+    "issue_key": "DK-600",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-11T12:46:19Z"
+  },
+  {
+    "issue_key": "DK-600",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-23T14:35:18Z"
+  },
+  {
+    "issue_key": "DK-600",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-27T16:15:42Z"
+  },
+  {
+    "issue_key": "DK-600",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-08T03:35:27Z"
+  },
+  {
+    "issue_key": "DK-601",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-16T11:25:54Z"
+  },
+  {
+    "issue_key": "DK-601",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-10T21:50:15Z"
+  },
+  {
+    "issue_key": "DK-601",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-29T13:45:31Z"
+  },
+  {
+    "issue_key": "DK-601",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-07T11:46:07Z"
+  },
+  {
+    "issue_key": "DK-601",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-18T08:56:11Z"
+  },
+  {
+    "issue_key": "DK-601",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-19T19:05:55Z"
+  },
+  {
+    "issue_key": "DK-601",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-25T06:57:28Z"
+  },
+  {
+    "issue_key": "DK-602",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-04T21:43:47Z"
+  },
+  {
+    "issue_key": "DK-603",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-22T01:11:56Z"
+  },
+  {
+    "issue_key": "DK-603",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-27T05:56:54Z"
+  },
+  {
+    "issue_key": "DK-603",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-27T07:07:26Z"
+  },
+  {
+    "issue_key": "DK-603",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-05T00:46:21Z"
+  },
+  {
+    "issue_key": "DK-603",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-08T21:53:54Z"
+  },
+  {
+    "issue_key": "DK-603",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-09T08:53:53Z"
+  },
+  {
+    "issue_key": "DK-603",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-24T13:03:16Z"
+  },
+  {
+    "issue_key": "DK-604",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-18T15:49:52Z"
+  },
+  {
+    "issue_key": "DK-605",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-09T00:13:23Z"
+  },
+  {
+    "issue_key": "DK-605",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-11T03:50:21Z"
+  },
+  {
+    "issue_key": "DK-605",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-27T19:18:24Z"
+  },
+  {
+    "issue_key": "DK-605",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-30T00:05:16Z"
+  },
+  {
+    "issue_key": "DK-605",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-07-01T06:31:00Z"
+  },
+  {
+    "issue_key": "DK-605",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-07-01T18:14:41Z"
+  },
+  {
+    "issue_key": "DK-606",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-17T18:19:15Z"
+  },
+  {
+    "issue_key": "DK-606",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-20T21:31:58Z"
+  },
+  {
+    "issue_key": "DK-606",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-25T18:38:34Z"
+  },
+  {
+    "issue_key": "DK-606",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-02T10:10:27Z"
+  },
+  {
+    "issue_key": "DK-606",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-08T03:12:34Z"
+  },
+  {
+    "issue_key": "DK-606",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-11T00:27:00Z"
+  },
+  {
+    "issue_key": "DK-606",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-17T05:30:28Z"
+  },
+  {
+    "issue_key": "DK-607",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-16T13:34:20Z"
+  },
+  {
+    "issue_key": "DK-607",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-17T01:45:43Z"
+  },
+  {
+    "issue_key": "DK-607",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-20T17:36:26Z"
+  },
+  {
+    "issue_key": "DK-607",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-26T01:49:44Z"
+  },
+  {
+    "issue_key": "DK-607",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-04-27T04:21:51Z"
+  },
+  {
+    "issue_key": "DK-607",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-04-28T00:13:29Z"
+  },
+  {
+    "issue_key": "DK-607",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-04-30T07:29:48Z"
+  },
+  {
+    "issue_key": "DK-608",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-16T13:34:20Z"
+  },
+  {
+    "issue_key": "DK-608",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-20T17:47:01Z"
+  },
+  {
+    "issue_key": "DK-608",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-26T02:38:24Z"
+  },
+  {
+    "issue_key": "DK-608",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-27T04:31:48Z"
+  },
+  {
+    "issue_key": "DK-608",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-04-29T00:08:14Z"
+  },
+  {
+    "issue_key": "DK-608",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-04-29T19:00:33Z"
+  },
+  {
+    "issue_key": "DK-608",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-01T09:04:15Z"
+  },
+  {
+    "issue_key": "DK-609",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-17T11:25:54Z"
+  },
+  {
+    "issue_key": "DK-609",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-18T02:43:32Z"
+  },
+  {
+    "issue_key": "DK-609",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-19T19:06:58Z"
+  },
+  {
+    "issue_key": "DK-609",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-22T03:19:14Z"
+  },
+  {
+    "issue_key": "DK-609",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-04-23T17:13:54Z"
+  },
+  {
+    "issue_key": "DK-609",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-04-26T08:57:10Z"
+  },
+  {
+    "issue_key": "DK-609",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-04-26T11:27:32Z"
+  },
+  {
+    "issue_key": "DK-610",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-19T15:49:52Z"
+  },
+  {
+    "issue_key": "DK-611",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-19T15:49:52Z"
+  },
+  {
+    "issue_key": "DK-611",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-21T15:22:06Z"
+  },
+  {
+    "issue_key": "DK-611",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-27T22:50:08Z"
+  },
+  {
+    "issue_key": "DK-612",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-19T15:49:52Z"
+  },
+  {
+    "issue_key": "DK-613",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-01T18:13:49Z"
+  },
+  {
+    "issue_key": "DK-613",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-02T21:33:14Z"
+  },
+  {
+    "issue_key": "DK-613",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-06T13:26:12Z"
+  },
+  {
+    "issue_key": "DK-613",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-09T10:23:37Z"
+  },
+  {
+    "issue_key": "DK-613",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-13T07:50:09Z"
+  },
+  {
+    "issue_key": "DK-613",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-18T22:26:41Z"
+  },
+  {
+    "issue_key": "DK-613",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-20T10:57:37Z"
+  },
+  {
+    "issue_key": "DK-614",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-04T19:49:50Z"
+  },
+  {
+    "issue_key": "DK-614",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-06T22:45:43Z"
+  },
+  {
+    "issue_key": "DK-614",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-11T06:54:15Z"
+  },
+  {
+    "issue_key": "DK-614",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-19T18:12:55Z"
+  },
+  {
+    "issue_key": "DK-614",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-24T19:38:05Z"
+  },
+  {
+    "issue_key": "DK-614",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-27T07:14:04Z"
+  },
+  {
+    "issue_key": "DK-614",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-29T23:30:08Z"
+  },
+  {
+    "issue_key": "DK-615",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-01T09:17:53Z"
+  },
+  {
+    "issue_key": "DK-615",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-09T08:36:15Z"
+  },
+  {
+    "issue_key": "DK-615",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-20T03:28:06Z"
+  },
+  {
+    "issue_key": "DK-615",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-23T21:21:46Z"
+  },
+  {
+    "issue_key": "DK-615",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-03T22:50:27Z"
+  },
+  {
+    "issue_key": "DK-615",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-09T12:25:51Z"
+  },
+  {
+    "issue_key": "DK-615",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-13T06:39:32Z"
+  },
+  {
+    "issue_key": "DK-616",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-19T06:26:17Z"
+  },
+  {
+    "issue_key": "DK-616",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-19T09:04:10Z"
+  },
+  {
+    "issue_key": "DK-616",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-22T17:14:35Z"
+  },
+  {
+    "issue_key": "DK-616",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-26T15:39:25Z"
+  },
+  {
+    "issue_key": "DK-616",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-02T17:49:35Z"
+  },
+  {
+    "issue_key": "DK-616",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-03T15:42:22Z"
+  },
+  {
+    "issue_key": "DK-616",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-03T15:48:08Z"
+  },
+  {
+    "issue_key": "DK-617",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-22T15:26:51Z"
+  },
+  {
+    "issue_key": "DK-618",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-28T08:16:38Z"
+  },
+  {
+    "issue_key": "DK-618",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-07-01T00:33:04Z"
+  },
+  {
+    "issue_key": "DK-618",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-07-01T15:16:57Z"
+  },
+  {
+    "issue_key": "DK-618",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-07-02T15:45:56Z"
+  },
+  {
+    "issue_key": "DK-618",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-07-02T17:49:37Z"
+  },
+  {
+    "issue_key": "DK-618",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-07-03T08:03:41Z"
+  },
+  {
+    "issue_key": "DK-618",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-07-03T08:09:32Z"
+  },
+  {
+    "issue_key": "DK-619",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-07T05:21:33Z"
+  },
+  {
+    "issue_key": "DK-619",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-07-01T06:15:35Z"
+  },
+  {
+    "issue_key": "DK-620",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-23T09:00:31Z"
+  },
+  {
+    "issue_key": "DK-620",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-28T15:52:36Z"
+  },
+  {
+    "issue_key": "DK-620",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-07-01T14:34:22Z"
+  },
+  {
+    "issue_key": "DK-621",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-02T18:13:49Z"
+  },
+  {
+    "issue_key": "DK-621",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-07T10:31:43Z"
+  },
+  {
+    "issue_key": "DK-621",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-16T00:30:28Z"
+  },
+  {
+    "issue_key": "DK-621",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-16T23:06:07Z"
+  },
+  {
+    "issue_key": "DK-621",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-18T12:58:56Z"
+  },
+  {
+    "issue_key": "DK-621",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-22T02:08:11Z"
+  },
+  {
+    "issue_key": "DK-621",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-30T04:10:57Z"
+  },
+  {
+    "issue_key": "DK-622",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-02T18:13:49Z"
+  },
+  {
+    "issue_key": "DK-622",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-02T23:28:50Z"
+  },
+  {
+    "issue_key": "DK-622",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-04T13:08:50Z"
+  },
+  {
+    "issue_key": "DK-622",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-04T15:02:10Z"
+  },
+  {
+    "issue_key": "DK-622",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-05T00:32:13Z"
+  },
+  {
+    "issue_key": "DK-622",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-05T09:50:53Z"
+  },
+  {
+    "issue_key": "DK-622",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-05T21:30:00Z"
+  },
+  {
+    "issue_key": "DK-623",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-02T18:13:49Z"
+  },
+  {
+    "issue_key": "DK-623",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-03T09:47:33Z"
+  },
+  {
+    "issue_key": "DK-623",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-04T13:31:41Z"
+  },
+  {
+    "issue_key": "DK-623",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-05T22:19:37Z"
+  },
+  {
+    "issue_key": "DK-623",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-06T01:18:40Z"
+  },
+  {
+    "issue_key": "DK-623",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-13T10:58:24Z"
+  },
+  {
+    "issue_key": "DK-623",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-14T09:09:58Z"
+  },
+  {
+    "issue_key": "DK-624",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-05T19:49:50Z"
+  },
+  {
+    "issue_key": "DK-624",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-19T21:55:12Z"
+  },
+  {
+    "issue_key": "DK-624",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-21T11:05:17Z"
+  },
+  {
+    "issue_key": "DK-624",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-22T22:00:54Z"
+  },
+  {
+    "issue_key": "DK-624",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-24T22:22:17Z"
+  },
+  {
+    "issue_key": "DK-624",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-24T23:02:39Z"
+  },
+  {
+    "issue_key": "DK-624",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-27T22:04:48Z"
+  },
+  {
+    "issue_key": "DK-625",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-05T19:49:50Z"
+  },
+  {
+    "issue_key": "DK-625",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-11T16:26:11Z"
+  },
+  {
+    "issue_key": "DK-625",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-12T00:57:53Z"
+  },
+  {
+    "issue_key": "DK-625",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-13T11:33:33Z"
+  },
+  {
+    "issue_key": "DK-625",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-18T08:25:39Z"
+  },
+  {
+    "issue_key": "DK-625",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-18T21:15:30Z"
+  },
+  {
+    "issue_key": "DK-625",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-24T19:21:51Z"
+  },
+  {
+    "issue_key": "DK-626",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-05T19:49:50Z"
+  },
+  {
+    "issue_key": "DK-626",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-08T21:26:30Z"
+  },
+  {
+    "issue_key": "DK-626",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-09T09:31:14Z"
+  },
+  {
+    "issue_key": "DK-626",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-10T03:04:22Z"
+  },
+  {
+    "issue_key": "DK-626",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-10T16:21:15Z"
+  },
+  {
+    "issue_key": "DK-626",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-10T22:34:09Z"
+  },
+  {
+    "issue_key": "DK-626",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-13T00:24:53Z"
+  },
+  {
+    "issue_key": "DK-627",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-02T09:17:53Z"
+  },
+  {
+    "issue_key": "DK-627",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-06T09:36:55Z"
+  },
+  {
+    "issue_key": "DK-627",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-14T23:57:59Z"
+  },
+  {
+    "issue_key": "DK-627",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-16T13:24:32Z"
+  },
+  {
+    "issue_key": "DK-627",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-20T05:17:57Z"
+  },
+  {
+    "issue_key": "DK-627",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-28T15:28:11Z"
+  },
+  {
+    "issue_key": "DK-627",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-03T14:00:30Z"
+  },
+  {
+    "issue_key": "DK-628",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-02T09:17:53Z"
+  },
+  {
+    "issue_key": "DK-628",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-04T23:41:24Z"
+  },
+  {
+    "issue_key": "DK-628",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-16T09:25:56Z"
+  },
+  {
+    "issue_key": "DK-628",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-23T08:31:33Z"
+  },
+  {
+    "issue_key": "DK-628",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-24T10:35:25Z"
+  },
+  {
+    "issue_key": "DK-628",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-02T23:55:36Z"
+  },
+  {
+    "issue_key": "DK-628",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-04T19:52:20Z"
+  },
+  {
+    "issue_key": "DK-629",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-02T09:17:53Z"
+  },
+  {
+    "issue_key": "DK-629",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-05T03:29:19Z"
+  },
+  {
+    "issue_key": "DK-629",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-16T05:39:11Z"
+  },
+  {
+    "issue_key": "DK-629",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-24T19:02:14Z"
+  },
+  {
+    "issue_key": "DK-629",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-01T19:44:02Z"
+  },
+  {
+    "issue_key": "DK-629",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-14T02:18:52Z"
+  },
+  {
+    "issue_key": "DK-629",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-15T03:53:54Z"
+  },
+  {
+    "issue_key": "DK-630",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-23T15:26:51Z"
+  },
+  {
+    "issue_key": "DK-630",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-31T23:23:09Z"
+  },
+  {
+    "issue_key": "DK-630",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-02T09:20:33Z"
+  },
+  {
+    "issue_key": "DK-631",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-17T07:37:47Z"
+  },
+  {
+    "issue_key": "DK-631",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-21T02:59:15Z"
+  },
+  {
+    "issue_key": "DK-631",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-26T16:44:16Z"
+  },
+  {
+    "issue_key": "DK-632",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-30T00:04:35Z"
+  },
+  {
+    "issue_key": "DK-632",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-07-01T12:18:56Z"
+  },
+  {
+    "issue_key": "DK-633",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-13T15:19:27Z"
+  },
+  {
+    "issue_key": "DK-633",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-16T08:19:58Z"
+  },
+  {
+    "issue_key": "DK-633",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-17T12:25:59Z"
+  },
+  {
+    "issue_key": "DK-633",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-18T15:03:52Z"
+  },
+  {
+    "issue_key": "DK-633",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-24T15:14:07Z"
+  },
+  {
+    "issue_key": "DK-633",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-25T09:56:04Z"
+  },
+  {
+    "issue_key": "DK-633",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-29T03:58:00Z"
+  },
+  {
+    "issue_key": "DK-634",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-17T07:06:25Z"
+  },
+  {
+    "issue_key": "DK-634",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-18T04:48:45Z"
+  },
+  {
+    "issue_key": "DK-634",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-19T05:42:08Z"
+  },
+  {
+    "issue_key": "DK-634",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-22T00:50:55Z"
+  },
+  {
+    "issue_key": "DK-634",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-22T02:01:47Z"
+  },
+  {
+    "issue_key": "DK-634",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-22T10:20:28Z"
+  },
+  {
+    "issue_key": "DK-634",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-22T22:11:54Z"
+  },
+  {
+    "issue_key": "DK-635",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-11T10:31:02Z"
+  },
+  {
+    "issue_key": "DK-635",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-12T10:23:12Z"
+  },
+  {
+    "issue_key": "DK-635",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-26T04:05:24Z"
+  },
+  {
+    "issue_key": "DK-636",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-05T13:07:44Z"
+  },
+  {
+    "issue_key": "DK-637",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-18T03:25:25Z"
+  },
+  {
+    "issue_key": "DK-637",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-19T04:55:01Z"
+  },
+  {
+    "issue_key": "DK-637",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-22T13:34:08Z"
+  },
+  {
+    "issue_key": "DK-637",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-22T16:47:02Z"
+  },
+  {
+    "issue_key": "DK-637",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-23T04:37:00Z"
+  },
+  {
+    "issue_key": "DK-637",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-23T15:45:51Z"
+  },
+  {
+    "issue_key": "DK-637",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-23T22:52:03Z"
+  },
+  {
+    "issue_key": "DK-638",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-15T20:24:55Z"
+  },
+  {
+    "issue_key": "DK-639",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-22T16:37:44Z"
+  },
+  {
+    "issue_key": "DK-639",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-23T17:43:31Z"
+  },
+  {
+    "issue_key": "DK-639",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-26T03:25:29Z"
+  },
+  {
+    "issue_key": "DK-639",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-27T20:14:09Z"
+  },
+  {
+    "issue_key": "DK-639",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-28T04:00:53Z"
+  },
+  {
+    "issue_key": "DK-639",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-28T21:58:40Z"
+  },
+  {
+    "issue_key": "DK-639",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-07-01T22:06:10Z"
+  },
+  {
+    "issue_key": "OTA-100",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-02T17:12:21Z"
+  },
+  {
+    "issue_key": "OTA-100",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-04T07:53:49Z"
+  },
+  {
+    "issue_key": "OTA-100",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-07T17:12:21Z"
+  },
+  {
+    "issue_key": "OTA-200",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-03-31T07:57:59Z"
+  },
+  {
+    "issue_key": "OTA-200",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-01T12:23:11Z"
+  },
+  {
+    "issue_key": "OTA-200",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-05T07:57:59Z"
+  },
+  {
+    "issue_key": "OTA-300",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-02T18:54:56Z"
+  },
+  {
+    "issue_key": "OTA-300",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-03T15:51:01Z"
+  },
+  {
+    "issue_key": "OTA-300",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-07T18:54:56Z"
+  },
+  {
+    "issue_key": "OTA-400",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-28T13:12:46Z"
+  },
+  {
+    "issue_key": "OTA-400",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-29T19:22:22Z"
+  },
+  {
+    "issue_key": "OTA-400",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-03T13:12:46Z"
+  },
+  {
+    "issue_key": "OTA-501",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-24T01:36:33Z"
+  },
+  {
+    "issue_key": "OTA-501",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-26T14:35:53Z"
+  },
+  {
+    "issue_key": "OTA-501",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-01T11:59:36Z"
+  },
+  {
+    "issue_key": "OTA-501",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-02T05:36:49Z"
+  },
+  {
+    "issue_key": "OTA-501",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-09T21:15:26Z"
+  },
+  {
+    "issue_key": "OTA-501",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-16T02:11:33Z"
+  },
+  {
+    "issue_key": "OTA-501",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-23T00:21:41Z"
+  },
+  {
+    "issue_key": "OTA-502",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-16T08:50:37Z"
+  },
+  {
+    "issue_key": "OTA-502",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-20T06:43:05Z"
+  },
+  {
+    "issue_key": "OTA-502",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-24T18:29:38Z"
+  },
+  {
+    "issue_key": "OTA-502",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-26T05:06:51Z"
+  },
+  {
+    "issue_key": "OTA-502",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-04-29T16:36:51Z"
+  },
+  {
+    "issue_key": "OTA-503",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-28T18:40:13Z"
+  },
+  {
+    "issue_key": "OTA-503",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-01T12:47:31Z"
+  },
+  {
+    "issue_key": "OTA-503",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-01T12:54:10Z"
+  },
+  {
+    "issue_key": "OTA-503",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-16T07:07:00Z"
+  },
+  {
+    "issue_key": "OTA-503",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-23T04:15:11Z"
+  },
+  {
+    "issue_key": "OTA-503",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-25T01:09:10Z"
+  },
+  {
+    "issue_key": "OTA-503",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-10T22:35:13Z"
+  },
+  {
+    "issue_key": "OTA-504",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-20T10:20:12Z"
+  },
+  {
+    "issue_key": "OTA-504",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-22T23:37:06Z"
+  },
+  {
+    "issue_key": "OTA-504",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-26T05:53:35Z"
+  },
+  {
+    "issue_key": "OTA-504",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-03T03:31:01Z"
+  },
+  {
+    "issue_key": "OTA-504",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-23T21:46:46Z"
+  },
+  {
+    "issue_key": "OTA-504",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-03T20:36:34Z"
+  },
+  {
+    "issue_key": "OTA-504",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-14T18:08:29Z"
+  },
+  {
+    "issue_key": "OTA-505",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-09T17:12:21Z"
+  },
+  {
+    "issue_key": "OTA-505",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-15T19:57:01Z"
+  },
+  {
+    "issue_key": "OTA-505",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-23T12:25:53Z"
+  },
+  {
+    "issue_key": "OTA-505",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-07T02:28:50Z"
+  },
+  {
+    "issue_key": "OTA-505",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-30T15:46:40Z"
+  },
+  {
+    "issue_key": "OTA-505",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-02T05:34:50Z"
+  },
+  {
+    "issue_key": "OTA-505",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-18T18:55:51Z"
+  },
+  {
+    "issue_key": "OTA-506",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-06T21:17:51Z"
+  },
+  {
+    "issue_key": "OTA-506",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-10T21:50:01Z"
+  },
+  {
+    "issue_key": "OTA-506",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-11T18:21:56Z"
+  },
+  {
+    "issue_key": "OTA-506",
+    "from_status": "in dev",
+    "to_status": "dev blocked",
+    "changed_at": "2026-06-28T10:30:00Z"
+  },
+  {
+    "issue_key": "OTA-507",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-29T01:43:55Z"
+  },
+  {
+    "issue_key": "OTA-507",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-04T01:50:25Z"
+  },
+  {
+    "issue_key": "OTA-507",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-07T11:52:11Z"
+  },
+  {
+    "issue_key": "OTA-507",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-08T07:06:24Z"
+  },
+  {
+    "issue_key": "OTA-508",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-01T00:50:53Z"
+  },
+  {
+    "issue_key": "OTA-508",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-03T07:12:37Z"
+  },
+  {
+    "issue_key": "OTA-508",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-05T08:14:16Z"
+  },
+  {
+    "issue_key": "OTA-508",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-09T03:48:03Z"
+  },
+  {
+    "issue_key": "OTA-508",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-11T10:58:12Z"
+  },
+  {
+    "issue_key": "OTA-508",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-21T12:23:38Z"
+  },
+  {
+    "issue_key": "OTA-508",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-07-01T02:52:35Z"
+  },
+  {
+    "issue_key": "OTA-509",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-25T01:36:33Z"
+  },
+  {
+    "issue_key": "OTA-509",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-11T02:20:31Z"
+  },
+  {
+    "issue_key": "OTA-509",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-22T03:53:05Z"
+  },
+  {
+    "issue_key": "OTA-509",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-26T05:14:16Z"
+  },
+  {
+    "issue_key": "OTA-509",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-29T21:46:27Z"
+  },
+  {
+    "issue_key": "OTA-509",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-10T18:32:19Z"
+  },
+  {
+    "issue_key": "OTA-509",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-30T21:09:43Z"
+  },
+  {
+    "issue_key": "OTA-510",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-21T10:20:12Z"
+  },
+  {
+    "issue_key": "OTA-510",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-02T07:46:02Z"
+  },
+  {
+    "issue_key": "OTA-510",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-07T15:13:19Z"
+  },
+  {
+    "issue_key": "OTA-510",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-11T18:17:57Z"
+  },
+  {
+    "issue_key": "OTA-510",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-20T01:48:28Z"
+  },
+  {
+    "issue_key": "OTA-510",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-20T23:28:23Z"
+  },
+  {
+    "issue_key": "OTA-510",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-15T16:28:14Z"
+  },
+  {
+    "issue_key": "OTA-511",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-10T17:12:21Z"
+  },
+  {
+    "issue_key": "OTA-511",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-13T18:23:50Z"
+  },
+  {
+    "issue_key": "OTA-511",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-13T23:59:41Z"
+  },
+  {
+    "issue_key": "OTA-511",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-14T18:24:41Z"
+  },
+  {
+    "issue_key": "OTA-511",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-04-16T21:26:29Z"
+  },
+  {
+    "issue_key": "OTA-511",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-04-29T08:25:20Z"
+  },
+  {
+    "issue_key": "OTA-511",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-01T22:41:31Z"
+  },
+  {
+    "issue_key": "OTA-512",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-10T17:12:21Z"
+  },
+  {
+    "issue_key": "OTA-512",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-14T03:04:16Z"
+  },
+  {
+    "issue_key": "OTA-512",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-06T01:30:36Z"
+  },
+  {
+    "issue_key": "OTA-512",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-09T04:07:13Z"
+  },
+  {
+    "issue_key": "OTA-512",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-15T14:11:49Z"
+  },
+  {
+    "issue_key": "OTA-512",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-22T12:09:31Z"
+  },
+  {
+    "issue_key": "OTA-512",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-26T11:48:06Z"
+  },
+  {
+    "issue_key": "OTA-513",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-10T17:12:21Z"
+  },
+  {
+    "issue_key": "OTA-513",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-12T23:29:27Z"
+  },
+  {
+    "issue_key": "OTA-513",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-16T01:01:34Z"
+  },
+  {
+    "issue_key": "OTA-513",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-27T13:00:29Z"
+  },
+  {
+    "issue_key": "OTA-513",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-01T20:04:17Z"
+  },
+  {
+    "issue_key": "OTA-513",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-04T08:52:58Z"
+  },
+  {
+    "issue_key": "OTA-513",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-06T07:03:51Z"
+  },
+  {
+    "issue_key": "OTA-514",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-07T21:17:51Z"
+  },
+  {
+    "issue_key": "OTA-514",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-08T00:25:00Z"
+  },
+  {
+    "issue_key": "OTA-514",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-09T08:42:04Z"
+  },
+  {
+    "issue_key": "OTA-515",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-07T21:17:51Z"
+  },
+  {
+    "issue_key": "OTA-515",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-12T00:31:37Z"
+  },
+  {
+    "issue_key": "OTA-515",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-12T10:16:53Z"
+  },
+  {
+    "issue_key": "OTA-515",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-14T13:21:21Z"
+  },
+  {
+    "issue_key": "OTA-515",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-14T16:50:24Z"
+  },
+  {
+    "issue_key": "OTA-515",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-17T01:20:02Z"
+  },
+  {
+    "issue_key": "OTA-515",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-17T13:50:23Z"
+  },
+  {
+    "issue_key": "OTA-516",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-30T01:43:55Z"
+  },
+  {
+    "issue_key": "OTA-517",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-30T01:43:55Z"
+  },
+  {
+    "issue_key": "OTA-518",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-24T20:04:31Z"
+  },
+  {
+    "issue_key": "OTA-518",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-27T22:41:47Z"
+  },
+  {
+    "issue_key": "OTA-518",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-17T16:34:51Z"
+  },
+  {
+    "issue_key": "OTA-518",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-29T11:06:17Z"
+  },
+  {
+    "issue_key": "OTA-518",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-02T18:43:52Z"
+  },
+  {
+    "issue_key": "OTA-518",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-06T14:19:22Z"
+  },
+  {
+    "issue_key": "OTA-518",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-16T07:15:43Z"
+  },
+  {
+    "issue_key": "OTA-519",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-07T07:57:59Z"
+  },
+  {
+    "issue_key": "OTA-519",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-11T15:45:11Z"
+  },
+  {
+    "issue_key": "OTA-519",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-16T19:06:23Z"
+  },
+  {
+    "issue_key": "OTA-519",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-04T00:55:06Z"
+  },
+  {
+    "issue_key": "OTA-519",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-17T10:32:20Z"
+  },
+  {
+    "issue_key": "OTA-519",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-23T09:34:00Z"
+  },
+  {
+    "issue_key": "OTA-519",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-29T19:10:43Z"
+  },
+  {
+    "issue_key": "OTA-520",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-22T02:53:44Z"
+  },
+  {
+    "issue_key": "OTA-520",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-23T13:52:56Z"
+  },
+  {
+    "issue_key": "OTA-520",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-17T03:55:46Z"
+  },
+  {
+    "issue_key": "OTA-520",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-08T01:53:33Z"
+  },
+  {
+    "issue_key": "OTA-520",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-16T11:11:55Z"
+  },
+  {
+    "issue_key": "OTA-520",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-17T21:42:06Z"
+  },
+  {
+    "issue_key": "OTA-520",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-22T06:15:24Z"
+  },
+  {
+    "issue_key": "OTA-521",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-24T21:25:07Z"
+  },
+  {
+    "issue_key": "OTA-521",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-29T00:30:47Z"
+  },
+  {
+    "issue_key": "OTA-521",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-08T01:57:55Z"
+  },
+  {
+    "issue_key": "OTA-521",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-13T21:12:04Z"
+  },
+  {
+    "issue_key": "OTA-521",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-16T04:32:38Z"
+  },
+  {
+    "issue_key": "OTA-521",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-22T21:57:42Z"
+  },
+  {
+    "issue_key": "OTA-521",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-30T05:39:29Z"
+  },
+  {
+    "issue_key": "OTA-522",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-14T12:09:50Z"
+  },
+  {
+    "issue_key": "OTA-522",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-16T15:59:23Z"
+  },
+  {
+    "issue_key": "OTA-522",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-26T04:37:09Z"
+  },
+  {
+    "issue_key": "OTA-522",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-28T03:14:48Z"
+  },
+  {
+    "issue_key": "OTA-522",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-03T07:57:44Z"
+  },
+  {
+    "issue_key": "OTA-522",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-23T12:15:36Z"
+  },
+  {
+    "issue_key": "OTA-522",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-28T20:45:52Z"
+  },
+  {
+    "issue_key": "OTA-523",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-19T08:18:15Z"
+  },
+  {
+    "issue_key": "OTA-523",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-26T14:48:22Z"
+  },
+  {
+    "issue_key": "OTA-523",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-27T11:39:51Z"
+  },
+  {
+    "issue_key": "OTA-523",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-11T19:59:21Z"
+  },
+  {
+    "issue_key": "OTA-523",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-24T14:38:38Z"
+  },
+  {
+    "issue_key": "OTA-524",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-26T05:58:53Z"
+  },
+  {
+    "issue_key": "OTA-524",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-29T14:35:30Z"
+  },
+  {
+    "issue_key": "OTA-524",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-01T04:26:11Z"
+  },
+  {
+    "issue_key": "OTA-524",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-07T22:01:45Z"
+  },
+  {
+    "issue_key": "OTA-524",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-08T21:52:24Z"
+  },
+  {
+    "issue_key": "OTA-524",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-11T02:37:57Z"
+  },
+  {
+    "issue_key": "OTA-524",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-18T07:02:28Z"
+  },
+  {
+    "issue_key": "OTA-525",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-27T18:03:56Z"
+  },
+  {
+    "issue_key": "OTA-525",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-28T09:06:51Z"
+  },
+  {
+    "issue_key": "OTA-525",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-28T20:28:15Z"
+  },
+  {
+    "issue_key": "OTA-525",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-13T15:47:27Z"
+  },
+  {
+    "issue_key": "OTA-525",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-18T04:10:52Z"
+  },
+  {
+    "issue_key": "OTA-525",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-25T00:29:24Z"
+  },
+  {
+    "issue_key": "OTA-525",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-30T03:34:01Z"
+  },
+  {
+    "issue_key": "OTA-526",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-15T12:31:43Z"
+  },
+  {
+    "issue_key": "OTA-526",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-18T18:13:11Z"
+  },
+  {
+    "issue_key": "OTA-526",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-27T15:25:03Z"
+  },
+  {
+    "issue_key": "OTA-526",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-31T12:12:26Z"
+  },
+  {
+    "issue_key": "OTA-526",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-11T16:15:38Z"
+  },
+  {
+    "issue_key": "OTA-526",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-14T00:07:05Z"
+  },
+  {
+    "issue_key": "OTA-526",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-14T01:30:05Z"
+  },
+  {
+    "issue_key": "OTA-527",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-11T10:27:55Z"
+  },
+  {
+    "issue_key": "OTA-527",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-12T04:32:04Z"
+  },
+  {
+    "issue_key": "OTA-527",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-12T06:04:44Z"
+  },
+  {
+    "issue_key": "OTA-527",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-15T06:25:58Z"
+  },
+  {
+    "issue_key": "OTA-527",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-20T03:42:07Z"
+  },
+  {
+    "issue_key": "OTA-527",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-22T19:51:51Z"
+  },
+  {
+    "issue_key": "OTA-527",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-04T02:44:26Z"
+  },
+  {
+    "issue_key": "OTA-528",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-13T16:38:51Z"
+  },
+  {
+    "issue_key": "OTA-528",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-08T20:29:16Z"
+  },
+  {
+    "issue_key": "OTA-528",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-24T10:40:01Z"
+  },
+  {
+    "issue_key": "OTA-528",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-30T00:57:48Z"
+  },
+  {
+    "issue_key": "OTA-529",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-25T20:04:31Z"
+  },
+  {
+    "issue_key": "OTA-529",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-26T20:36:34Z"
+  },
+  {
+    "issue_key": "OTA-529",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-08T16:08:45Z"
+  },
+  {
+    "issue_key": "OTA-529",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-11T20:50:00Z"
+  },
+  {
+    "issue_key": "OTA-529",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-15T04:51:44Z"
+  },
+  {
+    "issue_key": "OTA-529",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-17T10:09:55Z"
+  },
+  {
+    "issue_key": "OTA-529",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-19T06:22:42Z"
+  },
+  {
+    "issue_key": "OTA-530",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-25T20:04:31Z"
+  },
+  {
+    "issue_key": "OTA-530",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-01T01:28:07Z"
+  },
+  {
+    "issue_key": "OTA-530",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-19T11:49:10Z"
+  },
+  {
+    "issue_key": "OTA-530",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-24T19:33:54Z"
+  },
+  {
+    "issue_key": "OTA-530",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-04T14:43:32Z"
+  },
+  {
+    "issue_key": "OTA-530",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-05T21:35:41Z"
+  },
+  {
+    "issue_key": "OTA-530",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-09T11:26:03Z"
+  },
+  {
+    "issue_key": "OTA-531",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-12T10:27:55Z"
+  },
+  {
+    "issue_key": "OTA-531",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-21T23:58:41Z"
+  },
+  {
+    "issue_key": "OTA-531",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-22T03:20:37Z"
+  },
+  {
+    "issue_key": "OTA-531",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-25T00:58:42Z"
+  },
+  {
+    "issue_key": "OTA-531",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-25T13:59:13Z"
+  },
+  {
+    "issue_key": "OTA-531",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-29T10:30:37Z"
+  },
+  {
+    "issue_key": "OTA-531",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-29T20:08:40Z"
+  },
+  {
+    "issue_key": "OTA-532",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-12T10:27:55Z"
+  },
+  {
+    "issue_key": "OTA-532",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-25T14:32:30Z"
+  },
+  {
+    "issue_key": "OTA-532",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-30T13:32:31Z"
+  },
+  {
+    "issue_key": "OTA-532",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-04T16:40:59Z"
+  },
+  {
+    "issue_key": "OTA-532",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-08T12:24:33Z"
+  },
+  {
+    "issue_key": "OTA-532",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-12T13:44:55Z"
+  },
+  {
+    "issue_key": "OTA-532",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-23T14:17:07Z"
+  },
+  {
+    "issue_key": "OTA-533",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-25T11:38:16Z"
+  },
+  {
+    "issue_key": "OTA-533",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-28T09:11:49Z"
+  },
+  {
+    "issue_key": "OTA-533",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-03T17:33:15Z"
+  },
+  {
+    "issue_key": "OTA-533",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-12T13:40:24Z"
+  },
+  {
+    "issue_key": "OTA-533",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-18T06:31:35Z"
+  },
+  {
+    "issue_key": "OTA-533",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-26T05:07:51Z"
+  },
+  {
+    "issue_key": "OTA-533",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-29T08:15:55Z"
+  },
+  {
+    "issue_key": "OTA-534",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-09T18:54:56Z"
+  },
+  {
+    "issue_key": "OTA-534",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-17T22:59:29Z"
+  },
+  {
+    "issue_key": "OTA-534",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-18T12:21:50Z"
+  },
+  {
+    "issue_key": "OTA-534",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-19T10:50:49Z"
+  },
+  {
+    "issue_key": "OTA-534",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-01T23:31:47Z"
+  },
+  {
+    "issue_key": "OTA-534",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-13T05:21:14Z"
+  },
+  {
+    "issue_key": "OTA-534",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-17T11:41:58Z"
+  },
+  {
+    "issue_key": "OTA-535",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-08T19:32:07Z"
+  },
+  {
+    "issue_key": "OTA-535",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-10T15:05:00Z"
+  },
+  {
+    "issue_key": "OTA-535",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-13T07:04:50Z"
+  },
+  {
+    "issue_key": "OTA-535",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-16T20:04:12Z"
+  },
+  {
+    "issue_key": "OTA-535",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-30T01:18:21Z"
+  },
+  {
+    "issue_key": "OTA-535",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-03T22:48:04Z"
+  },
+  {
+    "issue_key": "OTA-535",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-05T00:12:13Z"
+  },
+  {
+    "issue_key": "OTA-536",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-28T19:07:22Z"
+  },
+  {
+    "issue_key": "OTA-536",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-02T05:17:07Z"
+  },
+  {
+    "issue_key": "OTA-536",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-04T07:41:19Z"
+  },
+  {
+    "issue_key": "OTA-536",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-18T01:04:33Z"
+  },
+  {
+    "issue_key": "OTA-536",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-26T15:01:59Z"
+  },
+  {
+    "issue_key": "OTA-536",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-30T20:56:52Z"
+  },
+  {
+    "issue_key": "OTA-536",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-08T22:44:05Z"
+  },
+  {
+    "issue_key": "OTA-537",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-08T20:42:18Z"
+  },
+  {
+    "issue_key": "OTA-537",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-14T22:39:13Z"
+  },
+  {
+    "issue_key": "OTA-537",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-16T21:28:30Z"
+  },
+  {
+    "issue_key": "OTA-537",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-20T21:08:26Z"
+  },
+  {
+    "issue_key": "OTA-537",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-21T13:35:27Z"
+  },
+  {
+    "issue_key": "OTA-537",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-21T21:39:36Z"
+  },
+  {
+    "issue_key": "OTA-537",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-24T10:27:19Z"
+  },
+  {
+    "issue_key": "OTA-538",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-19T22:53:04Z"
+  },
+  {
+    "issue_key": "OTA-538",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-22T22:53:37Z"
+  },
+  {
+    "issue_key": "OTA-538",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-03T20:36:18Z"
+  },
+  {
+    "issue_key": "OTA-538",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-14T09:39:56Z"
+  },
+  {
+    "issue_key": "OTA-538",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-20T22:42:08Z"
+  },
+  {
+    "issue_key": "OTA-538",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-31T13:57:12Z"
+  },
+  {
+    "issue_key": "OTA-538",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-04T01:27:38Z"
+  },
+  {
+    "issue_key": "OTA-539",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-08T13:07:30Z"
+  },
+  {
+    "issue_key": "OTA-539",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-12T07:11:26Z"
+  },
+  {
+    "issue_key": "OTA-539",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-13T09:50:18Z"
+  },
+  {
+    "issue_key": "OTA-539",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-20T21:11:19Z"
+  },
+  {
+    "issue_key": "OTA-539",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-26T20:12:53Z"
+  },
+  {
+    "issue_key": "OTA-539",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-28T16:37:48Z"
+  },
+  {
+    "issue_key": "OTA-539",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-02T17:33:57Z"
+  },
+  {
+    "issue_key": "OTA-540",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-12T04:19:02Z"
+  },
+  {
+    "issue_key": "OTA-540",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-12T13:09:50Z"
+  },
+  {
+    "issue_key": "OTA-540",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-30T20:55:10Z"
+  },
+  {
+    "issue_key": "OTA-540",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-06T14:49:42Z"
+  },
+  {
+    "issue_key": "OTA-540",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-11T04:31:44Z"
+  },
+  {
+    "issue_key": "OTA-540",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-11T17:37:04Z"
+  },
+  {
+    "issue_key": "OTA-540",
+    "from_status": "qa active",
+    "to_status": "qa blocked",
+    "changed_at": "2026-06-21T10:30:00Z"
+  },
+  {
+    "issue_key": "OTA-541",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-02T01:25:01Z"
+  },
+  {
+    "issue_key": "OTA-541",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-06T01:49:28Z"
+  },
+  {
+    "issue_key": "OTA-541",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-29T02:53:34Z"
+  },
+  {
+    "issue_key": "OTA-542",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-26T00:45:29Z"
+  },
+  {
+    "issue_key": "OTA-542",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-28T04:49:34Z"
+  },
+  {
+    "issue_key": "OTA-542",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-07T19:06:09Z"
+  },
+  {
+    "issue_key": "OTA-542",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-14T22:09:11Z"
+  },
+  {
+    "issue_key": "OTA-542",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-16T22:37:56Z"
+  },
+  {
+    "issue_key": "OTA-542",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-17T13:31:58Z"
+  },
+  {
+    "issue_key": "OTA-542",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-30T07:51:54Z"
+  },
+  {
+    "issue_key": "OTA-543",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-26T11:38:16Z"
+  },
+  {
+    "issue_key": "OTA-543",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-27T09:29:17Z"
+  },
+  {
+    "issue_key": "OTA-543",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-03T02:15:18Z"
+  },
+  {
+    "issue_key": "OTA-543",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-04T14:40:06Z"
+  },
+  {
+    "issue_key": "OTA-543",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-05T08:25:43Z"
+  },
+  {
+    "issue_key": "OTA-543",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-18T04:04:52Z"
+  },
+  {
+    "issue_key": "OTA-543",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-28T16:54:18Z"
+  },
+  {
+    "issue_key": "OTA-544",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-20T22:53:04Z"
+  },
+  {
+    "issue_key": "OTA-544",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-27T13:17:33Z"
+  },
+  {
+    "issue_key": "OTA-544",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-20T14:08:15Z"
+  },
+  {
+    "issue_key": "OTA-544",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-29T03:45:58Z"
+  },
+  {
+    "issue_key": "OTA-544",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-30T08:29:46Z"
+  },
+  {
+    "issue_key": "OTA-544",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-07T03:22:35Z"
+  },
+  {
+    "issue_key": "OTA-544",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-07T09:59:05Z"
+  },
+  {
+    "issue_key": "OTA-545",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-20T22:53:04Z"
+  },
+  {
+    "issue_key": "OTA-545",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-26T22:39:53Z"
+  },
+  {
+    "issue_key": "OTA-545",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-28T19:09:33Z"
+  },
+  {
+    "issue_key": "OTA-545",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-05T16:56:17Z"
+  },
+  {
+    "issue_key": "OTA-545",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-12T01:30:50Z"
+  },
+  {
+    "issue_key": "OTA-545",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-21T05:56:49Z"
+  },
+  {
+    "issue_key": "OTA-545",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-28T04:35:03Z"
+  },
+  {
+    "issue_key": "OTA-546",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-20T22:53:04Z"
+  },
+  {
+    "issue_key": "OTA-546",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-29T02:08:24Z"
+  },
+  {
+    "issue_key": "OTA-546",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-01T03:57:43Z"
+  },
+  {
+    "issue_key": "OTA-546",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-06T00:19:20Z"
+  },
+  {
+    "issue_key": "OTA-546",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-06T01:07:37Z"
+  },
+  {
+    "issue_key": "OTA-546",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-21T22:20:47Z"
+  },
+  {
+    "issue_key": "OTA-546",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-22T13:00:09Z"
+  },
+  {
+    "issue_key": "OTA-547",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-03T01:25:01Z"
+  },
+  {
+    "issue_key": "OTA-547",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-12T09:02:08Z"
+  },
+  {
+    "issue_key": "OTA-547",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-12T21:05:22Z"
+  },
+  {
+    "issue_key": "OTA-547",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-27T18:12:14Z"
+  },
+  {
+    "issue_key": "OTA-547",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-30T05:41:38Z"
+  },
+  {
+    "issue_key": "OTA-547",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-31T17:59:26Z"
+  },
+  {
+    "issue_key": "OTA-547",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-23T18:19:22Z"
+  },
+  {
+    "issue_key": "OTA-548",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-03T01:25:01Z"
+  },
+  {
+    "issue_key": "OTA-548",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-15T23:35:23Z"
+  },
+  {
+    "issue_key": "OTA-548",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-30T02:58:38Z"
+  },
+  {
+    "issue_key": "OTA-549",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-27T00:45:29Z"
+  },
+  {
+    "issue_key": "OTA-549",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-27T04:53:00Z"
+  },
+  {
+    "issue_key": "OTA-549",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-27T11:02:48Z"
+  },
+  {
+    "issue_key": "OTA-549",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-27T19:06:31Z"
+  },
+  {
+    "issue_key": "OTA-549",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-02T06:43:29Z"
+  },
+  {
+    "issue_key": "OTA-549",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-03T00:57:09Z"
+  },
+  {
+    "issue_key": "OTA-549",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-03T03:53:36Z"
+  },
+  {
+    "issue_key": "OTA-550",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-05T13:12:46Z"
+  },
+  {
+    "issue_key": "OTA-550",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-10T01:42:32Z"
+  },
+  {
+    "issue_key": "OTA-550",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-13T20:46:07Z"
+  },
+  {
+    "issue_key": "OTA-550",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-17T14:43:25Z"
+  },
+  {
+    "issue_key": "OTA-550",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-22T20:26:36Z"
+  },
+  {
+    "issue_key": "OTA-550",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-24T13:50:29Z"
+  },
+  {
+    "issue_key": "OTA-550",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-31T17:53:59Z"
+  },
+  {
+    "issue_key": "OTA-551",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-06T09:53:10Z"
+  },
+  {
+    "issue_key": "OTA-551",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-06T19:09:17Z"
+  },
+  {
+    "issue_key": "OTA-551",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-09T05:27:53Z"
+  },
+  {
+    "issue_key": "OTA-552",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-25T14:23:48Z"
+  },
+  {
+    "issue_key": "OTA-552",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-23T15:32:16Z"
+  },
+  {
+    "issue_key": "OTA-552",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-30T20:31:39Z"
+  },
+  {
+    "issue_key": "OTA-553",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-07T05:51:03Z"
+  },
+  {
+    "issue_key": "OTA-553",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-19T21:35:15Z"
+  },
+  {
+    "issue_key": "OTA-554",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-28T15:50:26Z"
+  },
+  {
+    "issue_key": "OTA-554",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-01T16:59:03Z"
+  },
+  {
+    "issue_key": "OTA-554",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-03T18:21:46Z"
+  },
+  {
+    "issue_key": "OTA-554",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-09T20:40:03Z"
+  },
+  {
+    "issue_key": "OTA-554",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-12T03:15:02Z"
+  },
+  {
+    "issue_key": "OTA-554",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-16T15:22:45Z"
+  },
+  {
+    "issue_key": "OTA-554",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-17T09:33:54Z"
+  },
+  {
+    "issue_key": "OTA-555",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-12T04:31:53Z"
+  },
+  {
+    "issue_key": "OTA-556",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-08T19:57:56Z"
+  },
+  {
+    "issue_key": "OTA-556",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-19T01:12:06Z"
+  },
+  {
+    "issue_key": "OTA-556",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-27T03:36:00Z"
+  },
+  {
+    "issue_key": "OTA-556",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-28T22:25:54Z"
+  },
+  {
+    "issue_key": "OTA-557",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-06T14:10:13Z"
+  },
+  {
+    "issue_key": "OTA-557",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-23T19:05:07Z"
+  },
+  {
+    "issue_key": "OTA-558",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-20T13:32:52Z"
+  },
+  {
+    "issue_key": "OTA-559",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-06T13:12:46Z"
+  },
+  {
+    "issue_key": "OTA-559",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-21T15:29:10Z"
+  },
+  {
+    "issue_key": "OTA-559",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-21T23:46:10Z"
+  },
+  {
+    "issue_key": "OTA-559",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-05T08:24:13Z"
+  },
+  {
+    "issue_key": "OTA-559",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-08T17:42:07Z"
+  },
+  {
+    "issue_key": "OTA-559",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-09T02:20:39Z"
+  },
+  {
+    "issue_key": "OTA-559",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-17T11:29:00Z"
+  },
+  {
+    "issue_key": "OTA-560",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-06T13:12:46Z"
+  },
+  {
+    "issue_key": "OTA-560",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-15T12:16:09Z"
+  },
+  {
+    "issue_key": "OTA-560",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-19T04:06:01Z"
+  },
+  {
+    "issue_key": "OTA-560",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-22T16:40:43Z"
+  },
+  {
+    "issue_key": "OTA-560",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-23T18:40:36Z"
+  },
+  {
+    "issue_key": "OTA-560",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-30T23:52:27Z"
+  },
+  {
+    "issue_key": "OTA-560",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-06T04:04:53Z"
+  },
+  {
+    "issue_key": "OTA-561",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-29T15:50:26Z"
+  },
+  {
+    "issue_key": "OTA-561",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-08T16:33:27Z"
+  },
+  {
+    "issue_key": "OTA-561",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-10T17:44:12Z"
+  },
+  {
+    "issue_key": "OTA-561",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-20T10:18:44Z"
+  },
+  {
+    "issue_key": "OTA-561",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-21T21:51:28Z"
+  },
+  {
+    "issue_key": "OTA-561",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-24T12:32:55Z"
+  },
+  {
+    "issue_key": "OTA-561",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-26T18:17:03Z"
+  },
+  {
+    "issue_key": "RC-100",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-02T21:38:41Z"
+  },
+  {
+    "issue_key": "RC-100",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-06T23:54:33Z"
+  },
+  {
+    "issue_key": "RC-100",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-07T21:38:41Z"
+  },
+  {
+    "issue_key": "RC-200",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-27T19:05:31Z"
+  },
+  {
+    "issue_key": "RC-200",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-01T13:24:33Z"
+  },
+  {
+    "issue_key": "RC-200",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-02T19:05:31Z"
+  },
+  {
+    "issue_key": "RC-300",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-03T12:05:14Z"
+  },
+  {
+    "issue_key": "RC-300",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-04T06:06:43Z"
+  },
+  {
+    "issue_key": "RC-300",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-06T15:17:50Z"
+  },
+  {
+    "issue_key": "RC-300",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-06T21:02:46Z"
+  },
+  {
+    "issue_key": "RC-300",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-04-07T19:12:11Z"
+  },
+  {
+    "issue_key": "RC-300",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-04-07T21:16:09Z"
+  },
+  {
+    "issue_key": "RC-300",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-04-08T12:05:14Z"
+  },
+  {
+    "issue_key": "RC-400",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-25T16:32:56Z"
+  },
+  {
+    "issue_key": "RC-400",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-26T19:33:50Z"
+  },
+  {
+    "issue_key": "RC-400",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-30T16:32:56Z"
+  },
+  {
+    "issue_key": "RC-500",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-30T07:56:41Z"
+  },
+  {
+    "issue_key": "RC-500",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-03T03:25:42Z"
+  },
+  {
+    "issue_key": "RC-500",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-04T07:56:41Z"
+  },
+  {
+    "issue_key": "RC-640",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-12T07:25:11Z"
+  },
+  {
+    "issue_key": "RC-640",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-14T03:30:55Z"
+  },
+  {
+    "issue_key": "RC-640",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-21T12:42:56Z"
+  },
+  {
+    "issue_key": "RC-640",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-25T19:49:03Z"
+  },
+  {
+    "issue_key": "RC-640",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-10T02:07:54Z"
+  },
+  {
+    "issue_key": "RC-640",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-11T16:58:18Z"
+  },
+  {
+    "issue_key": "RC-640",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-28T04:37:22Z"
+  },
+  {
+    "issue_key": "RC-641",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-15T08:58:21Z"
+  },
+  {
+    "issue_key": "RC-641",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-24T12:34:51Z"
+  },
+  {
+    "issue_key": "RC-641",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-04T09:31:38Z"
+  },
+  {
+    "issue_key": "RC-641",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-19T11:22:02Z"
+  },
+  {
+    "issue_key": "RC-641",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-22T22:25:50Z"
+  },
+  {
+    "issue_key": "RC-641",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-11T08:26:59Z"
+  },
+  {
+    "issue_key": "RC-641",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-21T10:30:57Z"
+  },
+  {
+    "issue_key": "RC-642",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-03T21:35:03Z"
+  },
+  {
+    "issue_key": "RC-642",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-25T07:51:59Z"
+  },
+  {
+    "issue_key": "RC-642",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-28T21:06:17Z"
+  },
+  {
+    "issue_key": "RC-642",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-10T04:34:26Z"
+  },
+  {
+    "issue_key": "RC-642",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-18T01:14:24Z"
+  },
+  {
+    "issue_key": "RC-642",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-18T09:12:03Z"
+  },
+  {
+    "issue_key": "RC-642",
+    "from_status": "qa active",
+    "to_status": "qa blocked",
+    "changed_at": "2026-06-20T10:30:00Z"
+  },
+  {
+    "issue_key": "RC-643",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-28T00:09:02Z"
+  },
+  {
+    "issue_key": "RC-643",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-05T09:10:17Z"
+  },
+  {
+    "issue_key": "RC-643",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-22T03:48:25Z"
+  },
+  {
+    "issue_key": "RC-643",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-29T11:20:03Z"
+  },
+  {
+    "issue_key": "RC-643",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-02T18:39:50Z"
+  },
+  {
+    "issue_key": "RC-643",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-04T14:50:04Z"
+  },
+  {
+    "issue_key": "RC-643",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-15T00:08:43Z"
+  },
+  {
+    "issue_key": "RC-644",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-06T17:55:55Z"
+  },
+  {
+    "issue_key": "RC-644",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-06T23:49:17Z"
+  },
+  {
+    "issue_key": "RC-644",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-16T06:39:05Z"
+  },
+  {
+    "issue_key": "RC-644",
+    "from_status": "in dev",
+    "to_status": "dev blocked",
+    "changed_at": "2026-06-26T10:30:00Z"
+  },
+  {
+    "issue_key": "RC-645",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-26T04:27:25Z"
+  },
+  {
+    "issue_key": "RC-645",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-31T15:37:10Z"
+  },
+  {
+    "issue_key": "RC-645",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-15T05:25:44Z"
+  },
+  {
+    "issue_key": "RC-645",
+    "from_status": "in dev",
+    "to_status": "dev blocked",
+    "changed_at": "2026-07-01T10:30:00Z"
+  },
+  {
+    "issue_key": "RC-646",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-09T21:38:41Z"
+  },
+  {
+    "issue_key": "RC-646",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-12T02:02:18Z"
+  },
+  {
+    "issue_key": "RC-646",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-25T11:48:52Z"
+  },
+  {
+    "issue_key": "RC-646",
+    "from_status": "in dev",
+    "to_status": "dev blocked",
+    "changed_at": "2026-06-19T10:30:00Z"
+  },
+  {
+    "issue_key": "RC-647",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-07T07:54:51Z"
+  },
+  {
+    "issue_key": "RC-647",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-25T14:15:42Z"
+  },
+  {
+    "issue_key": "RC-647",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-27T22:39:33Z"
+  },
+  {
+    "issue_key": "RC-647",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-07-02T01:50:35Z"
+  },
+  {
+    "issue_key": "RC-648",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-16T11:10:51Z"
+  },
+  {
+    "issue_key": "RC-648",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-17T14:25:48Z"
+  },
+  {
+    "issue_key": "RC-648",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-27T16:35:15Z"
+  },
+  {
+    "issue_key": "RC-648",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-12T09:20:48Z"
+  },
+  {
+    "issue_key": "RC-648",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-14T18:30:25Z"
+  },
+  {
+    "issue_key": "RC-648",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-23T23:06:15Z"
+  },
+  {
+    "issue_key": "RC-648",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-27T08:00:05Z"
+  },
+  {
+    "issue_key": "RC-649",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-25T01:42:11Z"
+  },
+  {
+    "issue_key": "RC-649",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-26T12:33:31Z"
+  },
+  {
+    "issue_key": "RC-649",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-29T05:36:52Z"
+  },
+  {
+    "issue_key": "RC-649",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-06T06:46:47Z"
+  },
+  {
+    "issue_key": "RC-649",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-10T01:17:22Z"
+  },
+  {
+    "issue_key": "RC-649",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-10T11:20:19Z"
+  },
+  {
+    "issue_key": "RC-649",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-16T17:20:07Z"
+  },
+  {
+    "issue_key": "RC-650",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-16T08:58:21Z"
+  },
+  {
+    "issue_key": "RC-650",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-16T11:12:51Z"
+  },
+  {
+    "issue_key": "RC-650",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-16T23:34:48Z"
+  },
+  {
+    "issue_key": "RC-650",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-19T10:44:42Z"
+  },
+  {
+    "issue_key": "RC-650",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-04-26T08:35:02Z"
+  },
+  {
+    "issue_key": "RC-650",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-04-27T05:26:17Z"
+  },
+  {
+    "issue_key": "RC-650",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-04-30T14:33:56Z"
+  },
+  {
+    "issue_key": "RC-651",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-16T08:58:21Z"
+  },
+  {
+    "issue_key": "RC-651",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-27T10:39:29Z"
+  },
+  {
+    "issue_key": "RC-651",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-28T02:55:53Z"
+  },
+  {
+    "issue_key": "RC-651",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-06T13:23:43Z"
+  },
+  {
+    "issue_key": "RC-651",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-11T09:55:34Z"
+  },
+  {
+    "issue_key": "RC-651",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-21T18:49:25Z"
+  },
+  {
+    "issue_key": "RC-651",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-24T00:47:04Z"
+  },
+  {
+    "issue_key": "RC-652",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-10T21:38:41Z"
+  },
+  {
+    "issue_key": "RC-652",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-16T18:09:08Z"
+  },
+  {
+    "issue_key": "RC-652",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-21T14:36:23Z"
+  },
+  {
+    "issue_key": "RC-653",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-27T22:09:41Z"
+  },
+  {
+    "issue_key": "RC-653",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-29T17:26:53Z"
+  },
+  {
+    "issue_key": "RC-653",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-07T01:46:08Z"
+  },
+  {
+    "issue_key": "RC-653",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-22T00:14:54Z"
+  },
+  {
+    "issue_key": "RC-654",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-27T18:42:02Z"
+  },
+  {
+    "issue_key": "RC-655",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-04T19:05:31Z"
+  },
+  {
+    "issue_key": "RC-655",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-15T15:50:42Z"
+  },
+  {
+    "issue_key": "RC-655",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-14T11:22:19Z"
+  },
+  {
+    "issue_key": "RC-656",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-11T03:58:35Z"
+  },
+  {
+    "issue_key": "RC-657",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-28T08:19:36Z"
+  },
+  {
+    "issue_key": "RC-657",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-29T05:29:18Z"
+  },
+  {
+    "issue_key": "RC-657",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-29T19:27:42Z"
+  },
+  {
+    "issue_key": "RC-657",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-30T04:18:44Z"
+  },
+  {
+    "issue_key": "RC-657",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-07-01T19:31:01Z"
+  },
+  {
+    "issue_key": "RC-657",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-07-02T06:09:34Z"
+  },
+  {
+    "issue_key": "RC-657",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-07-03T02:36:04Z"
+  },
+  {
+    "issue_key": "RC-658",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-16T14:13:12Z"
+  },
+  {
+    "issue_key": "RC-658",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-18T04:09:43Z"
+  },
+  {
+    "issue_key": "RC-659",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-25T16:56:31Z"
+  },
+  {
+    "issue_key": "RC-659",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-25T18:57:47Z"
+  },
+  {
+    "issue_key": "RC-659",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-26T16:36:48Z"
+  },
+  {
+    "issue_key": "RC-659",
+    "from_status": "in dev",
+    "to_status": "dev blocked",
+    "changed_at": "2026-06-26T16:56:31Z"
+  },
+  {
+    "issue_key": "RC-660",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-03T21:03:03Z"
+  },
+  {
+    "issue_key": "RC-660",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-08T10:29:07Z"
+  },
+  {
+    "issue_key": "RC-660",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-18T23:25:44Z"
+  },
+  {
+    "issue_key": "RC-660",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-23T03:32:06Z"
+  },
+  {
+    "issue_key": "RC-660",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-24T19:00:33Z"
+  },
+  {
+    "issue_key": "RC-660",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-08T22:56:29Z"
+  },
+  {
+    "issue_key": "RC-660",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-15T18:13:04Z"
+  },
+  {
+    "issue_key": "RC-661",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-04T17:17:51Z"
+  },
+  {
+    "issue_key": "RC-661",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-12T11:25:03Z"
+  },
+  {
+    "issue_key": "RC-661",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-13T17:37:09Z"
+  },
+  {
+    "issue_key": "RC-661",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-16T05:17:14Z"
+  },
+  {
+    "issue_key": "RC-661",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-17T14:01:40Z"
+  },
+  {
+    "issue_key": "RC-661",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-21T17:45:54Z"
+  },
+  {
+    "issue_key": "RC-661",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-26T20:45:18Z"
+  },
+  {
+    "issue_key": "RC-662",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-18T19:02:42Z"
+  },
+  {
+    "issue_key": "RC-662",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-24T11:34:26Z"
+  },
+  {
+    "issue_key": "RC-662",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-28T09:58:08Z"
+  },
+  {
+    "issue_key": "RC-662",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-28T14:56:26Z"
+  },
+  {
+    "issue_key": "RC-662",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-04-29T20:51:36Z"
+  },
+  {
+    "issue_key": "RC-662",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-16T05:05:28Z"
+  },
+  {
+    "issue_key": "RC-662",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-20T07:53:18Z"
+  },
+  {
+    "issue_key": "RC-663",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-27T16:35:14Z"
+  },
+  {
+    "issue_key": "RC-663",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-28T09:37:57Z"
+  },
+  {
+    "issue_key": "RC-663",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-01T05:31:29Z"
+  },
+  {
+    "issue_key": "RC-663",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-07T04:01:21Z"
+  },
+  {
+    "issue_key": "RC-663",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-17T22:30:48Z"
+  },
+  {
+    "issue_key": "RC-663",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-17T23:01:47Z"
+  },
+  {
+    "issue_key": "RC-663",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-28T02:29:11Z"
+  },
+  {
+    "issue_key": "RC-664",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-24T06:47:59Z"
+  },
+  {
+    "issue_key": "RC-664",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-24T12:37:22Z"
+  },
+  {
+    "issue_key": "RC-664",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-26T02:23:01Z"
+  },
+  {
+    "issue_key": "RC-664",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-08T08:18:54Z"
+  },
+  {
+    "issue_key": "RC-664",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-16T04:23:55Z"
+  },
+  {
+    "issue_key": "RC-664",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-16T05:23:27Z"
+  },
+  {
+    "issue_key": "RC-664",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-18T22:40:59Z"
+  },
+  {
+    "issue_key": "RC-665",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-10T12:05:14Z"
+  },
+  {
+    "issue_key": "RC-665",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-15T17:19:26Z"
+  },
+  {
+    "issue_key": "RC-665",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-20T19:19:39Z"
+  },
+  {
+    "issue_key": "RC-665",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-27T23:53:47Z"
+  },
+  {
+    "issue_key": "RC-665",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-05T04:22:58Z"
+  },
+  {
+    "issue_key": "RC-665",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-24T14:51:32Z"
+  },
+  {
+    "issue_key": "RC-665",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-15T04:54:54Z"
+  },
+  {
+    "issue_key": "RC-666",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-24T14:58:24Z"
+  },
+  {
+    "issue_key": "RC-666",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-26T04:06:56Z"
+  },
+  {
+    "issue_key": "RC-666",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-30T08:13:28Z"
+  },
+  {
+    "issue_key": "RC-666",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-14T15:43:51Z"
+  },
+  {
+    "issue_key": "RC-666",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-16T19:17:53Z"
+  },
+  {
+    "issue_key": "RC-666",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-26T04:05:43Z"
+  },
+  {
+    "issue_key": "RC-666",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-26T12:51:28Z"
+  },
+  {
+    "issue_key": "RC-667",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-17T12:24:54Z"
+  },
+  {
+    "issue_key": "RC-667",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-05T22:45:11Z"
+  },
+  {
+    "issue_key": "RC-667",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-18T01:56:06Z"
+  },
+  {
+    "issue_key": "RC-667",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-26T03:33:52Z"
+  },
+  {
+    "issue_key": "RC-667",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-04T19:01:48Z"
+  },
+  {
+    "issue_key": "RC-667",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-08T21:23:59Z"
+  },
+  {
+    "issue_key": "RC-667",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-09T21:15:19Z"
+  },
+  {
+    "issue_key": "RC-668",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-04T05:54:58Z"
+  },
+  {
+    "issue_key": "RC-668",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-15T17:31:02Z"
+  },
+  {
+    "issue_key": "RC-668",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-20T20:50:25Z"
+  },
+  {
+    "issue_key": "RC-668",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-27T00:49:26Z"
+  },
+  {
+    "issue_key": "RC-668",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-04T14:45:59Z"
+  },
+  {
+    "issue_key": "RC-668",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-06T20:09:33Z"
+  },
+  {
+    "issue_key": "RC-668",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-16T04:00:22Z"
+  },
+  {
+    "issue_key": "RC-669",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-06T21:09:16Z"
+  },
+  {
+    "issue_key": "RC-669",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-07T14:00:29Z"
+  },
+  {
+    "issue_key": "RC-669",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-08T13:19:19Z"
+  },
+  {
+    "issue_key": "RC-669",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-09T00:13:28Z"
+  },
+  {
+    "issue_key": "RC-669",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-10T13:03:22Z"
+  },
+  {
+    "issue_key": "RC-669",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-12T11:16:52Z"
+  },
+  {
+    "issue_key": "RC-669",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-17T15:10:13Z"
+  },
+  {
+    "issue_key": "RC-670",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-11T21:24:06Z"
+  },
+  {
+    "issue_key": "RC-670",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-08T12:20:44Z"
+  },
+  {
+    "issue_key": "RC-671",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-03T10:23:32Z"
+  },
+  {
+    "issue_key": "RC-671",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-27T10:34:53Z"
+  },
+  {
+    "issue_key": "RC-671",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-04T08:49:16Z"
+  },
+  {
+    "issue_key": "RC-671",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-08T15:22:33Z"
+  },
+  {
+    "issue_key": "RC-671",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-23T06:02:50Z"
+  },
+  {
+    "issue_key": "RC-672",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-06T01:11:23Z"
+  },
+  {
+    "issue_key": "RC-672",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-07T10:04:54Z"
+  },
+  {
+    "issue_key": "RC-672",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-13T08:46:13Z"
+  },
+  {
+    "issue_key": "RC-672",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-14T17:20:19Z"
+  },
+  {
+    "issue_key": "RC-672",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-15T11:31:47Z"
+  },
+  {
+    "issue_key": "RC-672",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-18T08:41:02Z"
+  },
+  {
+    "issue_key": "RC-672",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-18T13:47:54Z"
+  },
+  {
+    "issue_key": "RC-673",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-02T16:32:56Z"
+  },
+  {
+    "issue_key": "RC-673",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-10T02:45:10Z"
+  },
+  {
+    "issue_key": "RC-673",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-12T13:22:16Z"
+  },
+  {
+    "issue_key": "RC-673",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-25T10:36:10Z"
+  },
+  {
+    "issue_key": "RC-673",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-01T07:09:07Z"
+  },
+  {
+    "issue_key": "RC-673",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-09T03:42:37Z"
+  },
+  {
+    "issue_key": "RC-673",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-16T23:14:13Z"
+  },
+  {
+    "issue_key": "RC-674",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-15T00:53:48Z"
+  },
+  {
+    "issue_key": "RC-674",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-19T06:03:33Z"
+  },
+  {
+    "issue_key": "RC-674",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-24T08:39:01Z"
+  },
+  {
+    "issue_key": "RC-674",
+    "from_status": "in dev",
+    "to_status": "dev blocked",
+    "changed_at": "2026-06-27T10:30:00Z"
+  },
+  {
+    "issue_key": "RC-675",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-19T18:25:06Z"
+  },
+  {
+    "issue_key": "RC-675",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-30T09:08:08Z"
+  },
+  {
+    "issue_key": "RC-676",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-07T05:40:31Z"
+  },
+  {
+    "issue_key": "RC-676",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-09T19:25:14Z"
+  },
+  {
+    "issue_key": "RC-676",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-26T00:26:52Z"
+  },
+  {
+    "issue_key": "RC-677",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-12T21:24:06Z"
+  },
+  {
+    "issue_key": "RC-678",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-12T21:24:06Z"
+  },
+  {
+    "issue_key": "RC-678",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-13T10:00:22Z"
+  },
+  {
+    "issue_key": "RC-678",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-13T16:05:07Z"
+  },
+  {
+    "issue_key": "RC-678",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-14T09:07:05Z"
+  },
+  {
+    "issue_key": "RC-678",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-15T00:51:07Z"
+  },
+  {
+    "issue_key": "RC-678",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-15T06:12:05Z"
+  },
+  {
+    "issue_key": "RC-678",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-15T18:15:52Z"
+  },
+  {
+    "issue_key": "RC-679",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-12T21:24:06Z"
+  },
+  {
+    "issue_key": "RC-679",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-04T22:53:22Z"
+  },
+  {
+    "issue_key": "RC-679",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-17T14:24:25Z"
+  },
+  {
+    "issue_key": "RC-680",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-07T01:11:23Z"
+  },
+  {
+    "issue_key": "RC-680",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-08T18:36:26Z"
+  },
+  {
+    "issue_key": "RC-680",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-09T19:22:40Z"
+  },
+  {
+    "issue_key": "RC-680",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-11T16:02:49Z"
+  },
+  {
+    "issue_key": "RC-680",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-20T10:01:55Z"
+  },
+  {
+    "issue_key": "RC-680",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-24T04:01:22Z"
+  },
+  {
+    "issue_key": "RC-680",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-25T06:59:50Z"
+  },
+  {
+    "issue_key": "RC-681",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-03T16:32:56Z"
+  },
+  {
+    "issue_key": "RC-681",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-04T04:06:48Z"
+  },
+  {
+    "issue_key": "RC-681",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-04T07:45:37Z"
+  },
+  {
+    "issue_key": "RC-681",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-04T10:47:24Z"
+  },
+  {
+    "issue_key": "RC-681",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-04T21:38:55Z"
+  },
+  {
+    "issue_key": "RC-681",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-04T21:47:35Z"
+  },
+  {
+    "issue_key": "RC-681",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-04T22:30:10Z"
+  },
+  {
+    "issue_key": "RC-682",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-03T16:32:56Z"
+  },
+  {
+    "issue_key": "RC-682",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-16T09:40:18Z"
+  },
+  {
+    "issue_key": "RC-682",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-20T16:08:57Z"
+  },
+  {
+    "issue_key": "RC-682",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-28T15:23:30Z"
+  },
+  {
+    "issue_key": "RC-682",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-03T06:50:50Z"
+  },
+  {
+    "issue_key": "RC-682",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-08T01:39:00Z"
+  },
+  {
+    "issue_key": "RC-682",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-18T22:28:16Z"
+  },
+  {
+    "issue_key": "RC-683",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-03T16:32:56Z"
+  },
+  {
+    "issue_key": "RC-683",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-06T12:17:30Z"
+  },
+  {
+    "issue_key": "RC-683",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-14T14:47:19Z"
+  },
+  {
+    "issue_key": "RC-683",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-20T13:28:31Z"
+  },
+  {
+    "issue_key": "RC-683",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-21T09:15:43Z"
+  },
+  {
+    "issue_key": "RC-683",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-30T22:50:44Z"
+  },
+  {
+    "issue_key": "RC-683",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-17T01:50:53Z"
+  },
+  {
+    "issue_key": "RC-684",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-28T06:13:45Z"
+  },
+  {
+    "issue_key": "RC-684",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-28T12:41:40Z"
+  },
+  {
+    "issue_key": "RC-684",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-29T12:06:22Z"
+  },
+  {
+    "issue_key": "RC-684",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-30T21:42:03Z"
+  },
+  {
+    "issue_key": "RC-684",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-07-01T03:09:23Z"
+  },
+  {
+    "issue_key": "RC-685",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-26T22:28:27Z"
+  },
+  {
+    "issue_key": "RC-685",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-28T11:21:00Z"
+  },
+  {
+    "issue_key": "RC-685",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-28T21:35:40Z"
+  },
+  {
+    "issue_key": "RC-685",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-28T23:27:06Z"
+  },
+  {
+    "issue_key": "RC-685",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-29T19:54:48Z"
+  },
+  {
+    "issue_key": "RC-685",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-30T01:30:09Z"
+  },
+  {
+    "issue_key": "RC-685",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-07-01T23:33:41Z"
+  },
+  {
+    "issue_key": "RC-686",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-23T11:10:29Z"
+  },
+  {
+    "issue_key": "RC-687",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-15T20:12:47Z"
+  },
+  {
+    "issue_key": "RC-687",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-18T22:04:53Z"
+  },
+  {
+    "issue_key": "RC-687",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-20T04:41:13Z"
+  },
+  {
+    "issue_key": "RC-687",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-20T09:08:25Z"
+  },
+  {
+    "issue_key": "RC-687",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-20T09:57:48Z"
+  },
+  {
+    "issue_key": "RC-687",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-20T13:19:27Z"
+  },
+  {
+    "issue_key": "RC-688",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-06T07:56:41Z"
+  },
+  {
+    "issue_key": "RC-688",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-11T08:25:42Z"
+  },
+  {
+    "issue_key": "RC-688",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-12T23:17:09Z"
+  },
+  {
+    "issue_key": "RC-689",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-15T09:50:47Z"
+  },
+  {
+    "issue_key": "RC-690",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-29T09:03:50Z"
+  },
+  {
+    "issue_key": "RC-690",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-29T12:45:57Z"
+  },
+  {
+    "issue_key": "RC-690",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-30T05:17:11Z"
+  },
+  {
+    "issue_key": "RC-690",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-07-01T15:59:14Z"
+  },
+  {
+    "issue_key": "RC-690",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-07-02T04:25:36Z"
+  },
+  {
+    "issue_key": "RC-690",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-07-02T23:37:05Z"
+  },
+  {
+    "issue_key": "RC-690",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-07-02T23:38:24Z"
+  },
+  {
+    "issue_key": "RC-691",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-15T15:53:22Z"
+  },
+  {
+    "issue_key": "RC-692",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-25T20:26:41Z"
+  },
+  {
+    "issue_key": "RP-100",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-01T14:38:44Z"
+  },
+  {
+    "issue_key": "RP-100",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-03T06:39:10Z"
+  },
+  {
+    "issue_key": "RP-100",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-06T14:38:44Z"
+  },
+  {
+    "issue_key": "RP-200",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-03-31T12:28:11Z"
+  },
+  {
+    "issue_key": "RP-200",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-02T02:58:21Z"
+  },
+  {
+    "issue_key": "RP-200",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-05T12:28:11Z"
+  },
+  {
+    "issue_key": "RP-300",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-26T08:04:06Z"
+  },
+  {
+    "issue_key": "RP-300",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-27T20:25:44Z"
+  },
+  {
+    "issue_key": "RP-300",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-31T08:04:06Z"
+  },
+  {
+    "issue_key": "RP-400",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-13T08:15:28Z"
+  },
+  {
+    "issue_key": "RP-400",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-17T07:42:20Z"
+  },
+  {
+    "issue_key": "RP-400",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-18T08:15:28Z"
+  },
+  {
+    "issue_key": "RP-693",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-17T04:48:41Z"
+  },
+  {
+    "issue_key": "RP-693",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-23T11:01:04Z"
+  },
+  {
+    "issue_key": "RP-693",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-07T18:45:33Z"
+  },
+  {
+    "issue_key": "RP-693",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-10T04:39:24Z"
+  },
+  {
+    "issue_key": "RP-693",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-11T06:54:52Z"
+  },
+  {
+    "issue_key": "RP-693",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-13T19:15:40Z"
+  },
+  {
+    "issue_key": "RP-693",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-22T21:25:21Z"
+  },
+  {
+    "issue_key": "RP-694",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-03T06:01:44Z"
+  },
+  {
+    "issue_key": "RP-694",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-07T05:49:03Z"
+  },
+  {
+    "issue_key": "RP-694",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-08T06:50:30Z"
+  },
+  {
+    "issue_key": "RP-694",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-09T08:08:28Z"
+  },
+  {
+    "issue_key": "RP-694",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-15T01:30:41Z"
+  },
+  {
+    "issue_key": "RP-694",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-17T11:46:52Z"
+  },
+  {
+    "issue_key": "RP-694",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-27T14:48:26Z"
+  },
+  {
+    "issue_key": "RP-695",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-11T07:16:44Z"
+  },
+  {
+    "issue_key": "RP-695",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-16T15:26:41Z"
+  },
+  {
+    "issue_key": "RP-695",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-25T05:54:09Z"
+  },
+  {
+    "issue_key": "RP-695",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-22T18:42:50Z"
+  },
+  {
+    "issue_key": "RP-696",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-26T09:58:44Z"
+  },
+  {
+    "issue_key": "RP-696",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-02T02:09:23Z"
+  },
+  {
+    "issue_key": "RP-696",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-09T01:41:45Z"
+  },
+  {
+    "issue_key": "RP-696",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-12T03:22:17Z"
+  },
+  {
+    "issue_key": "RP-696",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-15T02:59:55Z"
+  },
+  {
+    "issue_key": "RP-696",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-20T01:30:44Z"
+  },
+  {
+    "issue_key": "RP-696",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-30T10:10:16Z"
+  },
+  {
+    "issue_key": "RP-697",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-01T20:34:40Z"
+  },
+  {
+    "issue_key": "RP-697",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-12T11:58:42Z"
+  },
+  {
+    "issue_key": "RP-697",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-29T01:08:24Z"
+  },
+  {
+    "issue_key": "RP-697",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-31T03:12:02Z"
+  },
+  {
+    "issue_key": "RP-697",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-05T12:23:42Z"
+  },
+  {
+    "issue_key": "RP-697",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-20T02:17:27Z"
+  },
+  {
+    "issue_key": "RP-697",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-29T04:27:45Z"
+  },
+  {
+    "issue_key": "RP-698",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-08T14:38:44Z"
+  },
+  {
+    "issue_key": "RP-698",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-13T08:05:29Z"
+  },
+  {
+    "issue_key": "RP-698",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-30T21:34:32Z"
+  },
+  {
+    "issue_key": "RP-698",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-01T13:26:44Z"
+  },
+  {
+    "issue_key": "RP-698",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-11T18:31:14Z"
+  },
+  {
+    "issue_key": "RP-698",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-15T23:13:05Z"
+  },
+  {
+    "issue_key": "RP-698",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-26T02:27:34Z"
+  },
+  {
+    "issue_key": "RP-699",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-08T15:08:41Z"
+  },
+  {
+    "issue_key": "RP-699",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-10T18:48:41Z"
+  },
+  {
+    "issue_key": "RP-699",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-14T21:52:31Z"
+  },
+  {
+    "issue_key": "RP-699",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-22T19:06:18Z"
+  },
+  {
+    "issue_key": "RP-699",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-01T02:09:25Z"
+  },
+  {
+    "issue_key": "RP-699",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-10T12:14:56Z"
+  },
+  {
+    "issue_key": "RP-699",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-23T06:12:45Z"
+  },
+  {
+    "issue_key": "RP-700",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-23T18:53:22Z"
+  },
+  {
+    "issue_key": "RP-700",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-20T19:15:09Z"
+  },
+  {
+    "issue_key": "RP-700",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-22T20:28:49Z"
+  },
+  {
+    "issue_key": "RP-701",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-17T08:32:20Z"
+  },
+  {
+    "issue_key": "RP-701",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-24T15:20:02Z"
+  },
+  {
+    "issue_key": "RP-701",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-26T06:33:18Z"
+  },
+  {
+    "issue_key": "RP-701",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-22T01:53:22Z"
+  },
+  {
+    "issue_key": "RP-702",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-18T04:48:41Z"
+  },
+  {
+    "issue_key": "RP-702",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-20T23:04:12Z"
+  },
+  {
+    "issue_key": "RP-702",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-23T00:20:37Z"
+  },
+  {
+    "issue_key": "RP-702",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-04-24T05:13:38Z"
+  },
+  {
+    "issue_key": "RP-702",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-04-25T12:33:11Z"
+  },
+  {
+    "issue_key": "RP-702",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-04-25T21:43:04Z"
+  },
+  {
+    "issue_key": "RP-702",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-04-26T10:41:50Z"
+  },
+  {
+    "issue_key": "RP-703",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-12T07:16:44Z"
+  },
+  {
+    "issue_key": "RP-704",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-27T09:58:44Z"
+  },
+  {
+    "issue_key": "RP-704",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-27T11:36:54Z"
+  },
+  {
+    "issue_key": "RP-704",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-27T12:20:26Z"
+  },
+  {
+    "issue_key": "RP-704",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-01T10:55:12Z"
+  },
+  {
+    "issue_key": "RP-704",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-02T09:39:42Z"
+  },
+  {
+    "issue_key": "RP-704",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-04T08:22:54Z"
+  },
+  {
+    "issue_key": "RP-704",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-08T08:15:07Z"
+  },
+  {
+    "issue_key": "RP-705",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-27T09:58:44Z"
+  },
+  {
+    "issue_key": "RP-705",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-28T15:36:07Z"
+  },
+  {
+    "issue_key": "RP-705",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-06T01:17:57Z"
+  },
+  {
+    "issue_key": "RP-705",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-09T23:51:46Z"
+  },
+  {
+    "issue_key": "RP-705",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-19T13:23:57Z"
+  },
+  {
+    "issue_key": "RP-705",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-22T05:31:50Z"
+  },
+  {
+    "issue_key": "RP-705",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-05-26T02:17:20Z"
+  },
+  {
+    "issue_key": "RP-706",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-07T12:28:11Z"
+  },
+  {
+    "issue_key": "RP-706",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-04-13T00:49:27Z"
+  },
+  {
+    "issue_key": "RP-706",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-04-24T15:42:48Z"
+  },
+  {
+    "issue_key": "RP-706",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-06T06:01:27Z"
+  },
+  {
+    "issue_key": "RP-706",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-19T06:19:30Z"
+  },
+  {
+    "issue_key": "RP-706",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-05-30T13:14:29Z"
+  },
+  {
+    "issue_key": "RP-706",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-07T12:20:58Z"
+  },
+  {
+    "issue_key": "RP-707",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-14T11:55:07Z"
+  },
+  {
+    "issue_key": "RP-707",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-01T06:42:52Z"
+  },
+  {
+    "issue_key": "RP-707",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-03T14:07:49Z"
+  },
+  {
+    "issue_key": "RP-707",
+    "from_status": "in dev",
+    "to_status": "dev blocked",
+    "changed_at": "2026-06-22T10:30:00Z"
+  },
+  {
+    "issue_key": "RP-708",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-04-30T18:00:46Z"
+  },
+  {
+    "issue_key": "RP-708",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-04T09:59:20Z"
+  },
+  {
+    "issue_key": "RP-708",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-16T09:00:47Z"
+  },
+  {
+    "issue_key": "RP-708",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-28T05:23:18Z"
+  },
+  {
+    "issue_key": "RP-709",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-04T17:35:57Z"
+  },
+  {
+    "issue_key": "RP-709",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-15T03:08:40Z"
+  },
+  {
+    "issue_key": "RP-709",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-24T23:09:20Z"
+  },
+  {
+    "issue_key": "RP-710",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-01T09:10:35Z"
+  },
+  {
+    "issue_key": "RP-710",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-26T02:37:01Z"
+  },
+  {
+    "issue_key": "RP-711",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-03T09:18:27Z"
+  },
+  {
+    "issue_key": "RP-711",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-12T11:05:03Z"
+  },
+  {
+    "issue_key": "RP-711",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-18T17:28:11Z"
+  },
+  {
+    "issue_key": "RP-711",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-20T06:25:59Z"
+  },
+  {
+    "issue_key": "RP-711",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-27T08:49:55Z"
+  },
+  {
+    "issue_key": "RP-712",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-05-16T02:30:55Z"
+  },
+  {
+    "issue_key": "RP-712",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-05-16T22:48:37Z"
+  },
+  {
+    "issue_key": "RP-712",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-05-20T14:29:53Z"
+  },
+  {
+    "issue_key": "RP-712",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-05-28T21:35:38Z"
+  },
+  {
+    "issue_key": "RP-712",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-05-30T17:47:08Z"
+  },
+  {
+    "issue_key": "RP-712",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-01T06:36:19Z"
+  },
+  {
+    "issue_key": "RP-712",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-02T02:02:50Z"
+  },
+  {
+    "issue_key": "RP-713",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-05T02:52:58Z"
+  },
+  {
+    "issue_key": "RP-713",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-26T14:57:19Z"
+  },
+  {
+    "issue_key": "RP-714",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-14T09:36:08Z"
+  },
+  {
+    "issue_key": "RP-714",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-21T09:30:05Z"
+  },
+  {
+    "issue_key": "RP-714",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-22T11:47:27Z"
+  },
+  {
+    "issue_key": "RP-715",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-14T15:37:34Z"
+  },
+  {
+    "issue_key": "RP-715",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-07-02T07:17:27Z"
+  },
+  {
+    "issue_key": "RP-716",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-02T08:04:06Z"
+  },
+  {
+    "issue_key": "RP-716",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-04T22:29:52Z"
+  },
+  {
+    "issue_key": "RP-716",
+    "from_status": "dev ready",
+    "to_status": "in dev",
+    "changed_at": "2026-06-06T23:05:29Z"
+  },
+  {
+    "issue_key": "RP-716",
+    "from_status": "in dev",
+    "to_status": "in review",
+    "changed_at": "2026-06-10T03:43:09Z"
+  },
+  {
+    "issue_key": "RP-716",
+    "from_status": "in review",
+    "to_status": "qa ready",
+    "changed_at": "2026-06-17T18:24:49Z"
+  },
+  {
+    "issue_key": "RP-716",
+    "from_status": "qa ready",
+    "to_status": "qa active",
+    "changed_at": "2026-06-25T18:17:23Z"
+  },
+  {
+    "issue_key": "RP-716",
+    "from_status": "qa active",
+    "to_status": "qa pass",
+    "changed_at": "2026-06-27T16:45:56Z"
+  },
+  {
+    "issue_key": "RP-717",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-23T23:08:24Z"
+  },
+  {
+    "issue_key": "RP-718",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-17T20:29:28Z"
+  },
+  {
+    "issue_key": "RP-719",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-17T01:18:18Z"
+  },
+  {
+    "issue_key": "RP-720",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-19T08:46:26Z"
+  },
+  {
+    "issue_key": "RP-720",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-29T18:51:49Z"
+  },
+  {
+    "issue_key": "RP-721",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-28T11:28:40Z"
+  },
+  {
+    "issue_key": "RP-722",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-23T06:33:57Z"
+  },
+  {
+    "issue_key": "RP-723",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-27T10:02:38Z"
+  },
+  {
+    "issue_key": "RP-723",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-28T23:16:25Z"
+  },
+  {
+    "issue_key": "RP-724",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-28T03:03:43Z"
+  },
+  {
+    "issue_key": "RP-725",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-20T08:15:28Z"
+  },
+  {
+    "issue_key": "RP-726",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-25T18:17:36Z"
+  },
+  {
+    "issue_key": "RP-727",
+    "from_status": null,
+    "to_status": "new",
+    "changed_at": "2026-06-26T17:38:16Z"
+  },
+  {
+    "issue_key": "RP-727",
+    "from_status": "new",
+    "to_status": "dev ready",
+    "changed_at": "2026-06-29T04:42:35Z"
+  }
+]

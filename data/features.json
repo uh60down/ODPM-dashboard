@@ -1,0 +1,62 @@
+[
+  {
+    "feature_id": "F-OTA-001",
+    "feature_name": "OTA Updates",
+    "category": "OTA",
+    "product_concept_id": null
+  },
+  {
+    "feature_id": "F-OTA-002",
+    "feature_name": "Delta Sync",
+    "category": "OTA",
+    "product_concept_id": null
+  },
+  {
+    "feature_id": "F-DK-001",
+    "feature_name": "Phone as Key",
+    "category": "Digital Key",
+    "product_concept_id": null
+  },
+  {
+    "feature_id": "F-DK-002",
+    "feature_name": "Key Sharing",
+    "category": "Digital Key",
+    "product_concept_id": null
+  },
+  {
+    "feature_id": "F-DK-003",
+    "feature_name": "NFC Card Key",
+    "category": "Digital Key",
+    "product_concept_id": null
+  },
+  {
+    "feature_id": "F-RC-001",
+    "feature_name": "Climate Control",
+    "category": "Remote Command",
+    "product_concept_id": null
+  },
+  {
+    "feature_id": "F-RC-002",
+    "feature_name": "Remote Lock/Unlock",
+    "category": "Remote Command",
+    "product_concept_id": null
+  },
+  {
+    "feature_id": "F-RC-003",
+    "feature_name": "Vehicle Status Monitor",
+    "category": "Remote Command",
+    "product_concept_id": null
+  },
+  {
+    "feature_id": "F-RP-001",
+    "feature_name": "Remote Smart Parking",
+    "category": "Remote Parking",
+    "product_concept_id": null
+  },
+  {
+    "feature_id": "F-RP-002",
+    "feature_name": "Parking Assist View",
+    "category": "Remote Parking",
+    "product_concept_id": null
+  }
+]
